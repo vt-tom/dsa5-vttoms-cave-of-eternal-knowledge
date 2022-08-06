@@ -1,0 +1,13 @@
+{
+    "moduleName": "dsa5-bestiary2",
+    "journal": "dsa5-bestiary2.bestiary2rules",
+    "splash": "modules/dsa5-bestiary2/icons/journal/cover.webp",
+    "chapters": [{
+        "name": "Inhalt",
+        "content": [
+            { "name": "Info", "id": "Aventurisches Bestiarium 2" },
+            { "name": "Regeln", "id": "Regeln" },
+            { "name": "Kreaturen", "id": "Kreaturen" }
+        ]
+    }]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "The Dark Eye 5th Ed. - Aventurian Bestiary II",
+    "description": "",
+    "version": "4.0.0",
+    "url": "https://github.com/Plushtoast/dsa5-foundryVTT",
+    "manifest": "https://raw.githubusercontent.com/Plushtoast/dsa5-bestiary2/master/module.json",
+    "download": "https://github.com/Plushtoast/dsa5-bestiary2/archive/master.zip",
+    "languages": [{
+        "lang": "de",
+        "name": "Deutsch",
+        "path": "lang/de.json"
+    }],
+    "esmodules": [
+        "modules/init.js"
+    ],
+    "packs": [
+        {
+            "name": "tutorials",
+            "label": "Tutorials",
+            "system": "dsa5",
+            "path": "packs/tutorials.db",
+            "type": "JournalEntry",
+            "private": false
+        }
+    ],
+    "id": "dsa5-bestiary2",
+    "authors": [{
+        "name": "VTTom"
+    }],
+    "relationships": {
+        "systems": [{
+            "id": "dsa5",
+            "type": "system",
+            "compatibility": {
+                "minimum": "4.0.0"
+            }
+        }]
+    },
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10",
+        "maximum": "10"
+    },
+    "name": "dsa5-bestiary2",
+    "minimumCoreVersion": "10"
+}
