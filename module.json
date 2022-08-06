@@ -2,9 +2,9 @@
     "title": "The Dark Eye 5th Ed. - Aventurian Bestiary II",
     "description": "",
     "version": "4.0.0",
-    "url": "https://github.com/Plushtoast/dsa5-foundryVTT",
-    "manifest": "https://raw.githubusercontent.com/Plushtoast/dsa5-bestiary2/master/module.json",
-    "download": "https://github.com/Plushtoast/dsa5-bestiary2/archive/master.zip",
+    "url": "https://github.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge",
+    "manifest": "https://raw.githubusercontent.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge/main/module.json",
+    "download": "https://github.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge/archive/main.zip",
     "languages": [{
         "lang": "de",
         "name": "Deutsch",
@@ -23,7 +23,7 @@
             "private": false
         }
     ],
-    "id": "dsa5-bestiary2",
+    "id": "dsa5-vttoms-cave-of-eternal-knowledge",
     "authors": [{
         "name": "VTTom"
     }],
@@ -41,6 +41,6 @@
         "verified": "10",
         "maximum": "10"
     },
-    "name": "dsa5-bestiary2",
+    "name": "dsa5-vttoms-cave-of-eternal-knowledge",
     "minimumCoreVersion": "10"
 }
