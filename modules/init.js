@@ -1,17 +1,11 @@
 Hooks.once("init", async function() {
-    console.log("Initializing DSA5 Bestiary 2 module")
-})
-
-Hooks.once("setup", async function() {
-    mergeObject(game.dsa5.config.vantagesNeedingAdaption, {
-
-    })
+    console.log("Initializing VTToms cave of eternal knowledge module")
 })
 
 Hooks.once("ready", function() {
     game.dsa5.apps.journalBrowser.books.push({
-        id: "VTToms Tutorials",
-        path: "modules/dsa5-tutorial/bookde.json",
+        id: "VTToms Höhle des ewigen Wissens",
+        path: "modules/dsa5-vttoms-cave-of-eternal-knowledge/bookde.json",
         visible: true
     })
 })
