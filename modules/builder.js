@@ -5,6 +5,12 @@ export default class SteinDerWeisen {
 
         const journalPack = `${moduleName}.tutorials`
         const pack = game.packs.get(journalPack)
+        try{
+            await pack.configure({locked: false})
+        }catch{
+
+        }
+        
         const docs = await pack.getDocuments()
         for(let d of docs) await d.delete()
         for(let d of pack.folders) await d.delete()     
@@ -76,6 +82,11 @@ export default class SteinDerWeisen {
                     }
                 }, { pack: journalPack})
             }
+        }
+        try{
+            await pack.configure({locked: true})
+        }catch{
+            
         }
     }
     
