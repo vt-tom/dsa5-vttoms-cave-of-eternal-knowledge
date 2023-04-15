@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "name": "Shorts",
+      "videos": [
+        {
+          "name": "Schicksalspunkte",
+          "beschreibung": "Wie funktionieren die Schicksalspunkte im Chat und Charakterbogen?",
+          "link": "https://youtu.be/0h10xfNvWCI"
+        },
+        {
+          "name": "Gestaltwandlung",
+          "beschreibung": "Wie kann ich die Gestaltwandlung für zum Beispiel Adlerschwinge in Foundry umsetzen?",
+          "link": "https://youtu.be/k82thRp7cNc"
+        },
+        {
+          "name": "Erschweren/Erleichtern",
+          "beschreibung": "bla",
+          "link": "youtubelink"
+        },
+        {
+          "name": "Erschweren/Erleichtern",
+          "beschreibung": "Wie erschwere/erleichtere ich mir eine Probe?",
+          "link": "https://youtu.be/_5VqrPZhAno"
+        },
+        {
+          "name": "Regeneration",
+          "beschreibung": "Wie funktioniert die Regeneration aus dem Charakterbogen und wie wende ich das Ergebnis an?",
+          "link": "https://youtu.be/ccuQWJj9mP8"
+        },
+        {
+          "name": "KaP/AsP Kosten bezahlen",
+          "beschreibung": "Wie bezahle ich die KaP/AsP Kosten nach der Verwendung einer Liturgie/eines Zaubers?",
+          "link": "https://youtu.be/Zf_Way2gy88"
+        },
+        {
+          "name": "Schaden anwenden",
+          "beschreibung": "Wie wende ich den Schaden direkt aus der Chatkarte an?",
+          "link": "https://youtu.be/8Eenvi-kt4I"
+        },
+        {
+          "name": "Wurfwaffen nachladen",
+          "beschreibung": "Wie lade ich eine Wurfwaffe nach dem Wurf nach?",
+          "link": "https://youtu.be/N-UhOHs7DPE"
+        },
+        {
+          "name": "Vertrautentier",
+          "beschreibung": "Wie lege ich einen Tier-Vertrauten (z.B. für Hexen) an?",
+          "link": "https://youtu.be/6zO3le8GbI4"
+        }
+      ]
+    },
+    {
+      "name": "Spielleiter Tutorials",
+      "videos": [
+        {
+          "name": "Trefferzonen – Kompendium 1",
+          "beschreibung": "In diesem Video zeige ich euch wie ihr die Trefferzonen in Foundry DSA verwendet. Wichtig ist, dass ihr dafür das DSA Premium Modul Kompendium 1 benötigt.",
+          "link": "https://youtu.be/CZJMhGR2lQ4"
+        }
+      ]
+    }
+  ]
+}

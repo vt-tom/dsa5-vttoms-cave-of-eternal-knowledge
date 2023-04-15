@@ -1,55 +1,6 @@
 {
-    "moduleName": "dsa5-dsa5-vttoms-cave-of-eternal-knowledge",
+    "moduleName": "dsa5-vttoms-cave-of-eternal-knowledge",
     "journal": "dsa5-vttoms-cave-of-eternal-knowledge.tutorials",
-    "chapters": [
-        {
-            "name": "Videos",
-            "content": [
-                {
-                    "name": "Foundry Basics",
-                    "id": "Foundry Basics",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Abenteuer",
-                    "id": "Abenteuer",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Module",
-                    "id": "Module",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Shorts",
-                    "id": "Shorts",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Spieler",
-                    "id": "Spieler",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Spielleiter",
-                    "id": "Spielleiter",
-                    "scenes": [],
-                    "actors": []
-                },
-                {
-                    "name": "Sonstige DSA Module",
-                    "id": "Sonstige DSA Module",
-                    "scenes": [],
-                    "actors": []
-                }
-            ]
-        }
-    ],
     "modules": [],
     "splash": "modules/dsa5-dsa5-vttoms-cave-of-eternal-knowledge/icons/journal/coverde.webp"
 }
