@@ -1,7 +1,7 @@
 export default class SteinDerWeisen {
     static async buildVideos() {
         const moduleName = "dsa5-vttoms-cave-of-eternal-knowledge"
-        const videos = (await (await fetch(`modules/${moduleName}/data/videos.json`)).json())
+        const videos = (await (await fetch(`modules/${moduleName}/data/videosde.json`)).json())
 
         const journalPack = `${moduleName}.tutorials`
         const pack = game.packs.get(journalPack)
