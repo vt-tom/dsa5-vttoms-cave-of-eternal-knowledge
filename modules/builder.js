@@ -15,9 +15,11 @@ export default class SteinDerWeisen {
         for(let d of docs) await d.delete()
         for(let d of pack.folders) await d.delete()     
                 
+        let sortFolder = 1000
         for (let entry of videos.chapters) {
-            const chapter = await Folder.create({ name: entry.name, type: "JournalEntry", sorting: "m"}, { pack: journalPack})
+            const chapter = await Folder.create({ name: entry.name, type: "JournalEntry", sorting: "m", sort: sortFolder}, { pack: journalPack})
             let sort = 1000
+            sortFolder += 1
             for(let video of entry.videos) {
                 sort += 1
                 let description ={
