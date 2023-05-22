@@ -44,5 +44,14 @@
         "maximum": "11"
     },
     "name": "dsa5-vttoms-cave-of-eternal-knowledge",
-    "minimumCoreVersion": "11"
+    "minimumCoreVersion": "11",
+    "packFolders": [
+      {
+        "name": "JournalEntry",
+        "sorting": "m",
+        "packs": [
+          "tutorials"
+        ]
+      }
+    ]
 }
