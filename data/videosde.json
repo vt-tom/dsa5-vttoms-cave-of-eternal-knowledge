@@ -9,7 +9,6 @@
         "link": ""
       }
       ]
-
     },
     {
       "name": "Foundry Basics",
@@ -73,6 +72,52 @@
           "name": "11. Journals (v10)",
           "beschreibung": "In diesem Video zeige ich euch alle Funktionen der Journal Entrys und Pages. Ihr könnt in einem Journal Entry verschiedene Pages anlegen, darunter auch Bilder, Videos oder sogar PDF Dateien. Außerdem haben sich die Links untereinander verändert so, dass ihr Inhaltlisten oder Querverweise anlegen könnt.",
           "link": "https://youtu.be/7SX2TZ_pVP8"
+        }
+      ]
+    },
+    {
+      "name": "Spieler Tutorials",
+      "videos": [
+        {  
+          "name": "Spieler Tutorial",
+          "beschreibung": "Dies ist ein grundlegendes Spieler Tutorial, welches primär die Foundry Funktionen umfasst. Es werden aber auch ein paar DSA Funktionen gezeigt.",
+          "link": "https://youtu.be/yMvoTOpj71s"
+        },
+        {  
+          "name": "Charakterbogen",
+          "beschreibung": "Wie funktioniert der Charakterbogen? Was kann ich alles auf den einzelnen Tabs machen? Dies beantworte ich euch in diesem Video, in dem ich den Charbogen einmal komplett durch gehe.",
+          "link": "https://youtu.be/hLjNxQ1Alns"
+        },
+        {  
+          "name": "Proben",
+          "beschreibung": "Dieses Video behandelt die Proben in DSA Foundry. Gezeigt werden unter anderem die Eigenschafts-, Talent- und Kampfproben.",
+          "link": "https://youtu.be/9RtUf0adIhg"
+        },
+        {  
+          "name": "Kampf für Spieler",
+          "beschreibung": "Wie läuft der Kampf aus Spielersicht in Foundry DSA ab. Was solltet ihr machen um die Automatismen in Foundry DSA richtig zu nutzen und welche speziellen Funktionen gibt es? Das alles behandle ich in diesem Video.",
+          "link": "https://youtu.be/HBDHielRUgY"
+        },
+        {  
+          "name": "Charaktererstellung",
+          "beschreibung": "Die Charaktererstellung in Foundry DSA funktioniert sehr gut, wenn man weiß worauf geachtet werden muss. Dies zeige ich euch in diesem Video.",
+          "link": "https://youtu.be/XhpYD_cvpEk"
+        },
+        {  
+          "name": "Ausrüstung",
+          "beschreibung": "DSA Foundry hat eine umfassende Ausrüstungsverwaltung. Viele Funktionen findet ihr in diesem Video.",
+          "link": "https://youtu.be/0PY5asQ8M0g"
+        },
+        {  
+          "name": "Traditionsartefakte",
+          "beschreibung": "Die Traditionsartefakte der einzelnen magischen Traditionen lassen sich auch in DSA Foundry abbilden. Dafür gibt es einen Abschnitt im Magie Tab des Charakterbogens. Wie das ganze funktioniert zeige ich euch in diesem kurzen Tutorial.",
+          "link": "https://youtu.be/YnReQrVH6tA",
+          "date": "13.05.2023"
+        },
+        {  
+          "name": "Spielermenü – Beschwörungen",
+          "beschreibung": "Für die Beschwörung von Dämonen, Elementaren und anderen Wesen gibt es ein eigenes Menü, welches euch das Thema deutlich erleichtert. Im Video zeige ich euch wie ihr dieses Menü verwendet.",
+          "link": "https://youtu.be/aKwpKp7m6eA"
         }
       ]
     },
@@ -233,7 +278,13 @@
           "name": "Effektfeld und Statuseffekte",
           "beschreibung": "Effekte und Statuseffekte sind ein kompliziertes aber mächtiges Thema um Foundry DSA noch weiter zu automatisieren. Wollt ihr eigene Items anlegen oder bestehende erweitern, dann könnt ihr mit diesem System viel erreichen. In diesem Video erkläre ich euch ein paar Basics dazu.",
           "link": "https://youtu.be/o7YfkD_dap4"
-        }
+        },
+        {  
+        "name": "Info Item",
+        "beschreibung": "Um Informationen zu Pflanzen, Kreaturen, Orten, Geschichte und vielen mehr mit euren Spielern zu teilen könnt ihr in Foundry DSA das Info Item nutzen. Mit diesem lassen sich Informationen nach einer erfolgreichen Probe passend zur Qualitätsstufe an die Spieler weiter geben.",
+        "link": "https://youtu.be/G9Lq0g8gcCo",
+        "date": "19.05.2023"
+      }
       ]
     },
     {
