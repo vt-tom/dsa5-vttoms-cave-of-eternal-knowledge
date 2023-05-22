@@ -19,8 +19,7 @@
             "label": "Tutorials",
             "system": "dsa5",
             "path": "packs/tutorials.db",
-            "type": "JournalEntry",
-            "private": false
+            "type": "JournalEntry"
         }
     ],
     "id": "dsa5-vttoms-cave-of-eternal-knowledge",

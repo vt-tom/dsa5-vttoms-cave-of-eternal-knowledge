@@ -14,14 +14,30 @@ export default class SteinDerWeisen {
         const docs = await pack.getDocuments()
         for(let d of docs) await d.delete()
         for(let d of pack.folders) await d.delete()     
+
+        let allVideos = []
+        for (let entry of videos.chapters) {
+            for(let video of entry.videos) {
+                if(video.date)
+                    allVideos.push(video)
+            }
+        }
+        const newVideos = allVideos.sort((a,b) => { return Date.parse(a.date) - Date.parse(b.date)}).slice(0, 3)
+        const newsChapter = {
+            "name": "Neueste Videos",
+            "videos": newVideos
+        }
+        videos.chapters.splice(1, 0, newsChapter)
                 
         let sortFolder = 1000
         for (let entry of videos.chapters) {
             const chapter = await Folder.create({ name: entry.name, type: "JournalEntry", sorting: "m", sort: sortFolder}, { pack: journalPack})
             let sort = 1000
             sortFolder += 1
+            
             for(let video of entry.videos) {
                 sort += 1
+                const videoDate = video.date ? `<p><b>Veröffentlicht am:</b> ${video.date}</p>` : ""
                 let description ={
                     "name": "Beschreibung",
                     "type": "text",
@@ -32,7 +48,7 @@ export default class SteinDerWeisen {
                     "image": {},
                     "text": {
                         "format": 1,
-                        "content": `<p>${video.beschreibung}</p>`,
+                        "content": `${videoDate}<p>${video.beschreibung}</p>`,
                         "markdown": ""
                     },                    
                     "src": null,
@@ -90,6 +106,8 @@ export default class SteinDerWeisen {
         }catch{
             
         }
+
+        console.warn("Build finished")
     }
     
 }
