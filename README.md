@@ -1,5 +1,6 @@
 # dsa5-vttoms-cave-of-eternal-knowledge
-DSA 5 Journal Modul mit Videos und Anleitungen zu Foundry DSA
+DSA 5 Journal Modul mit Videos und Anleitungen zu Foundry DSA  
+(A module for implementing my german youtube tutorials directly into Foundry VTT)
 
 Dieses Modul fügt dem Journal Browser eine strukturierte Übersicht meiner Foundry VTT Module hinzu.  
 Ihr könnt also mit diesem Modul die Tutorials über den JournalBrowser aufrufen und direkt in Foundry nachstellen.
