@@ -26,8 +26,8 @@
     "id": "dsa5-vttoms-cave-of-eternal-knowledge",
     "authors": [{
         "name": "VTTom",
-        "homepage": "https://vttom.de",
-        "kofi": "https://ko-fi.com/vttom"
+        "url": "https://vttom.de",
+        "ko-fi": "https://ko-fi.com/vttom"
     }],
     "relationships": {
         "systems": [{
