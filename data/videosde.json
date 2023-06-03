@@ -125,6 +125,11 @@
       "name": "Shorts",
       "videos": [
         {
+          "name": "Fackeln, Laternen usw.",
+          "beschreibung": "Wie funktionieren Lichtquellen in Foundry DSA?",
+          "link": "https://youtu.be/64oqzsoVxFM",
+          "date": "03.06.2023"
+        },{
           "name": "Schicksalspunkte",
           "beschreibung": "Wie funktionieren die Schicksalspunkte im Chat und Charakterbogen?",
           "link": "https://youtu.be/0h10xfNvWCI"
