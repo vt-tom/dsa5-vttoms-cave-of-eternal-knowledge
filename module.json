@@ -1,10 +1,10 @@
 {
     "title": "VTTOM's Höhle des ewigen Wissens",
     "description": "In diesem Modul findet ihr alle Videos meines Youtube Kanals VTTom zum Thema Foundry und DSA. Alles direkt in Foundry verfügbar so, dass ihr die Videos schauen und direkt ausprobieren könnt. Außerdem lassen sich die Videos direkt mit euren Spielern teilen. Falls sie mal wieder behaupten nicht zu wissen wie etwas geht...",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "url": "https://github.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge",
     "manifest": "https://raw.githubusercontent.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge/main/module.json",
-    "download": "https://github.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge/releases/download/5.0.0/dsa5-vttoms-cave-of-eternal-knowledge-5.0.0.zip",
+    "download": "https://github.com/vt-tom/dsa5-vttoms-cave-of-eternal-knowledge/releases/download/5.0.1/dsa5-vttoms-cave-of-eternal-knowledge-5.0.1.zip",
     "languages": [{
         "lang": "de",
         "name": "Deutsch",

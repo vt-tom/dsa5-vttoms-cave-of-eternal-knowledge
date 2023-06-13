@@ -141,11 +141,6 @@
         },
         {
           "name": "Erschweren/Erleichtern",
-          "beschreibung": "bla",
-          "link": "youtubelink"
-        },
-        {
-          "name": "Erschweren/Erleichtern",
           "beschreibung": "Wie erschwere/erleichtere ich mir eine Probe?",
           "link": "https://youtu.be/_5VqrPZhAno"
         },
@@ -393,7 +388,7 @@
       ]
     },
     {
-      "name": "Vorstellung DSA Module - Sonstige",
+      "name": "Vorstellung DSA Module - Abenteuer (SPOILER!)",
       "videos": [
         {
           "name": "Rabenkrieg Howto mit Huepfklotz",
