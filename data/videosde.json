@@ -125,11 +125,24 @@
       "name": "Shorts",
       "videos": [
         {
+          "name": "Krankheitsprobe",
+          "beschreibung": "Wie führt man eine Krankheitsprobe in Foundry DSA aus?",
+          "link": "https://youtu.be/J4w_Sgr6QpA",
+          "date": "15.07.2023"
+        },
+        {
+          "name": "Waffe vergiften",
+          "beschreibung": " Wie werden Waffen in Foundry DSA vergiftet?",
+          "link": "https://youtu.be/6WOdGez1PH4",
+          "date": "15.07.2023"
+        },
+        {
           "name": "Fackeln, Laternen usw.",
           "beschreibung": "Wie funktionieren Lichtquellen in Foundry DSA?",
           "link": "https://youtu.be/64oqzsoVxFM",
           "date": "03.06.2023"
-        },{
+        },
+        {
           "name": "Schicksalspunkte",
           "beschreibung": "Wie funktionieren die Schicksalspunkte im Chat und Charakterbogen?",
           "link": "https://youtu.be/0h10xfNvWCI"
@@ -460,6 +473,12 @@
     {
       "name": "Vorstellung DSA Community",
       "videos": [
+        {
+          "name": "Ohne Ehre (Spoiler)",
+          "beschreibung": "Das Studio VTT-Bastler ist sehr stolz euch das erste DSA Foundry Modul präsentieren zu dürfen: Ohne Ehre. Bei Ohne Ehre handelt es sich um ein Foundry-exklusives DSA 5 Kurzabenteuer. Es eignet sich sehr gut dafür um als Oneshot an einem Abend gespielt zu werden, es sind aber auch Plothooks enthalten um das Abenteuer danach selbst weiter ausbauen zu können.",
+          "link": "https://youtu.be/6y9cBY7zbfc",
+          "date": "15.07.2023"
+        },
         {
           "name": "Skriptorium Produkte (bis April 2023)",
           "beschreibung": "Vorstellung einiger Module und Produkte aus dem Skriptorium Aventuris - Stand April 2023",
