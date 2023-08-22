@@ -1,7 +1,14 @@
-2023/06/13-20:57:34.571 2818 Recovering log #148
-2023/06/13-20:57:34.577 2818 Delete type=0 #148
-2023/06/13-20:57:34.577 2818 Delete type=3 #146
-2023/06/13-20:57:59.289 4094 Level-0 table #154: started
-2023/06/13-20:57:59.289 4094 Level-0 table #154: 0 bytes OK
-2023/06/13-20:57:59.293 4094 Delete type=0 #152
-2023/06/13-20:57:59.293 4094 Manual compaction at level-0 from '!folders!9WoF21ZzJsDzX29w' @ 72057594037927935 : 1 .. '!journal.pages!zTm4iGrQgPShp7CZ.S7YU4y0sNRQ3xl8E' @ 0 : 0; will stop at (end)
+2023/08/22-17:13:33.197 7a0c Recovering log #188
+2023/08/22-17:13:33.201 7a0c Delete type=0 #188
+2023/08/22-17:13:33.201 7a0c Delete type=3 #187
+2023/08/22-17:23:32.365 7580 Level-0 table #192: started
+2023/08/22-17:23:32.367 7580 Level-0 table #192: 113613 bytes OK
+2023/08/22-17:23:32.368 7580 Delete type=0 #190
+2023/08/22-17:23:32.368 7580 Manual compaction at level-0 from '!folders!AX7FCFqKUmOjehk7' @ 72057594037927935 : 1 .. '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 0 : 0; will stop at '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 5425 : 1
+2023/08/22-17:23:32.368 7580 Compacting 1@0 + 1@1 files
+2023/08/22-17:23:32.370 7580 Generated table #193@0: 289 keys, 50106 bytes
+2023/08/22-17:23:32.370 7580 Compacted 1@0 + 1@1 files => 50106 bytes
+2023/08/22-17:23:32.371 7580 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/22-17:23:32.371 7580 Delete type=2 #150
+2023/08/22-17:23:32.371 7580 Delete type=2 #192
+2023/08/22-17:23:32.371 7580 Manual compaction at level-0 from '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 5425 : 1 .. '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 0 : 0; will stop at (end)
