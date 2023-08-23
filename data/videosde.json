@@ -125,6 +125,12 @@
       "name": "Shorts",
       "videos": [
         {
+          "name": "Waffenloser Kampf, Ausweichen, Sturzschaden",
+          "beschreibung": "Der Waffenlose Kampf, Ausweichen und Sturzschaden sind alle auf dem Kampf Tab als Symbole zu finden.",
+          "link": "https://youtu.be/ZZBC-u01TEU",
+          "date": "21.07.2023"
+        },
+        {
           "name": "Krankheitsprobe",
           "beschreibung": "Wie führt man eine Krankheitsprobe in Foundry DSA aus?",
           "link": "https://youtu.be/J4w_Sgr6QpA",
@@ -473,6 +479,12 @@
     {
       "name": "Vorstellung DSA Community",
       "videos": [
+        {
+          "name": "Scriptorium Produkte (bis Juli 2023)",
+          "beschreibung": "in diesem Video stelle ich euch wieder interessante Produkte aus dem Scriptorium vor. Außerdem ist noch eine Karte aus dem Orkenspalter Forum dabei.",
+          "link": "https://youtu.be/CweK57gRzew",
+          "date": "04.08.2023"
+        },
         {
           "name": "Ohne Ehre (Spoiler)",
           "beschreibung": "Das Studio VTT-Bastler ist sehr stolz euch das erste DSA Foundry Modul präsentieren zu dürfen: Ohne Ehre. Bei Ohne Ehre handelt es sich um ein Foundry-exklusives DSA 5 Kurzabenteuer. Es eignet sich sehr gut dafür um als Oneshot an einem Abend gespielt zu werden, es sind aber auch Plothooks enthalten um das Abenteuer danach selbst weiter ausbauen zu können.",
