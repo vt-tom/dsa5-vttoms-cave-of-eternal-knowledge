@@ -1,14 +1,14 @@
-2023/08/22-17:13:33.197 7a0c Recovering log #188
-2023/08/22-17:13:33.201 7a0c Delete type=0 #188
-2023/08/22-17:13:33.201 7a0c Delete type=3 #187
-2023/08/22-17:23:32.365 7580 Level-0 table #192: started
-2023/08/22-17:23:32.367 7580 Level-0 table #192: 113613 bytes OK
-2023/08/22-17:23:32.368 7580 Delete type=0 #190
-2023/08/22-17:23:32.368 7580 Manual compaction at level-0 from '!folders!AX7FCFqKUmOjehk7' @ 72057594037927935 : 1 .. '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 0 : 0; will stop at '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 5425 : 1
-2023/08/22-17:23:32.368 7580 Compacting 1@0 + 1@1 files
-2023/08/22-17:23:32.370 7580 Generated table #193@0: 289 keys, 50106 bytes
-2023/08/22-17:23:32.370 7580 Compacted 1@0 + 1@1 files => 50106 bytes
-2023/08/22-17:23:32.371 7580 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/22-17:23:32.371 7580 Delete type=2 #150
-2023/08/22-17:23:32.371 7580 Delete type=2 #192
-2023/08/22-17:23:32.371 7580 Manual compaction at level-0 from '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 5425 : 1 .. '!journal.pages!zy2dLx21rmZkQbRk.gEyhMpPC41eCZIEy' @ 0 : 0; will stop at (end)
+2023/08/23-12:17:21.216 6c4 Recovering log #195
+2023/08/23-12:17:21.221 6c4 Delete type=0 #195
+2023/08/23-12:17:21.221 6c4 Delete type=3 #194
+2023/08/23-14:00:59.439 263c Level-0 table #199: started
+2023/08/23-14:00:59.441 263c Level-0 table #199: 60477 bytes OK
+2023/08/23-14:00:59.442 263c Delete type=0 #197
+2023/08/23-14:00:59.443 263c Manual compaction at level-0 from '!folders!0vhXoN1yDH677yvO' @ 72057594037927935 : 1 .. '!journal.pages!zyLRMxLCZjwtIwse.Mz2NuJxgbvpIkkbO' @ 0 : 0; will stop at '!journal.pages!zyLRMxLCZjwtIwse.Mz2NuJxgbvpIkkbO' @ 6061 : 1
+2023/08/23-14:00:59.443 263c Compacting 1@0 + 1@1 files
+2023/08/23-14:00:59.445 263c Generated table #200@0: 289 keys, 50691 bytes
+2023/08/23-14:00:59.445 263c Compacted 1@0 + 1@1 files => 50691 bytes
+2023/08/23-14:00:59.446 263c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/23-14:00:59.446 263c Delete type=2 #193
+2023/08/23-14:00:59.446 263c Delete type=2 #199
+2023/08/23-14:00:59.447 263c Manual compaction at level-0 from '!journal.pages!zyLRMxLCZjwtIwse.Mz2NuJxgbvpIkkbO' @ 6061 : 1 .. '!journal.pages!zyLRMxLCZjwtIwse.Mz2NuJxgbvpIkkbO' @ 0 : 0; will stop at (end)
