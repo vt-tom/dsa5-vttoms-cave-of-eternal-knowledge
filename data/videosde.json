@@ -72,6 +72,18 @@
           "name": "11. Journals (v10)",
           "beschreibung": "In diesem Video zeige ich euch alle Funktionen der Journal Entrys und Pages. Ihr könnt in einem Journal Entry verschiedene Pages anlegen, darunter auch Bilder, Videos oder sogar PDF Dateien. Außerdem haben sich die Links untereinander verändert so, dass ihr Inhaltlisten oder Querverweise anlegen könnt.",
           "link": "https://youtu.be/7SX2TZ_pVP8"
+        },
+        {
+          "name": "12. Shared Compendium (v11)",
+          "beschreibung": "Seit Foundry v11 gibt es direkt im Setup die Möglichkeit Shared/Adventure Compendien anzulegen und zu verwalten. Noch nie war es so einfach ein geteiltes Kompendium anzulegen.",
+          "link": "https://youtu.be/2S0BkTuEQDg",
+          "date": "30.09.2023"
+        },
+        {
+          "name": "Backups direkt in Foundry",
+          "beschreibung": "Foundry hat seit der Version 11.311 eine integrierte Backup Funktion. Mit dieser lassen sich Welten, Systeme und Module sichern und bei Problemen direkt mit dem Foundry Setup wieder herstellen.",
+          "link": "https://youtu.be/S2-XyYh89Zo",
+          "date": "13.10.2023"
         }
       ]
     },
@@ -97,6 +109,12 @@
           "name": "Kampf für Spieler",
           "beschreibung": "Wie läuft der Kampf aus Spielersicht in Foundry DSA ab. Was solltet ihr machen um die Automatismen in Foundry DSA richtig zu nutzen und welche speziellen Funktionen gibt es? Das alles behandle ich in diesem Video.",
           "link": "https://youtu.be/HBDHielRUgY"
+        },
+        {
+          "name": "Heldenerschaffung in Foundry DSA",
+          "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.",
+          "link": "https://youtu.be/PDenI-po_Rg",
+          "date": "29.12.2023"
         },
         {  
           "name": "Charaktererstellung",
@@ -187,6 +205,24 @@
           "name": "Vertrautentier",
           "beschreibung": "Wie lege ich einen Tier-Vertrauten (z.B. für Hexen) an?",
           "link": "https://youtu.be/6zO3le8GbI4"
+        },
+        {
+          "name": "Sammelproben",
+          "beschreibung": "Die Sammelproben werden im Talente Tab des Charakterbogens angelegt und verwendet.",
+          "link": "https://youtu.be/0Ro-dwS_vPM",
+          "date": "12.04.2024"
+        },
+        {
+          "name": "Gruppenproben",
+          "beschreibung": "Gruppenproben in Foundry DSA lassen sich auf 3 Arten auslösen: im Chat, in Journals und per Meister Hotbar.",
+          "link": "https://youtu.be/EHnMaA8VlWY",
+          "date": "12.04.2024"
+        },
+        {
+          "name": "Waffen und Rüstungsverschleiß",
+          "beschreibung": "Der Waffen und Rüstungsverschleiß ist eine Bonusfunktion die aktiviert werden muss. Danach löst das System automatisch die Bruchfaktorproben aus.",
+          "link": "https://youtu.be/vFMl081mj9U",
+          "date": "12.04.2024"
         }
       ]
     },
@@ -207,6 +243,12 @@
           "name": "Kampf für Spielleiter",
           "beschreibung": "Der Kampf ist sehr gut in Foundry DSA umgesetzt. Allerdings muss man dabei einiges beachten um einen sauberen Ablauf zu gewährleisten. Alles Wichtige dazu findet ihr in diesem Video.",
           "link": "https://youtu.be/7SrhjOfpyYs"
+        },
+        {
+          "name": "Heldenerschaffung in Foundry DSA",
+          "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.",
+          "link": "https://youtu.be/PDenI-po_Rg",
+          "date": "29.12.2023"
         },
         {
           "name": "Charaktererstellung",
@@ -473,6 +515,24 @@
           "name": "Aventurische Tavernen",
           "beschreibung": "Vorstellung des DSA Moduls - Aventurische Tavernen",
           "link": "https://youtu.be/no5aK7Zp3bs"
+        },
+        {
+          "name": "Kaiser Retos Waffenkammer",
+          "beschreibung": "Kaiser Retos Waffenkammer ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
+          "link": "https://youtu.be/sfvZ45BgEvs",
+          "date": "15.03.2024"
+        },
+        {
+          "name": "Dornenreich",
+          "beschreibung": "Die Dornenreich RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
+          "link": "https://youtu.be/l6zgE88nXT8",
+          "date": "11.03.2024"
+        },
+        {
+          "name": "Winterwacht",
+          "beschreibung": "Die Winterwacht RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
+          "link": "https://youtu.be/psx6IGv1d_k",
+          "date": "01.03.2024"
         }
       ]
     },

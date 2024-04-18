@@ -1,15 +1,14 @@
-2023/08/23-14:12:59.150 1c40 Recovering log #4
-2023/08/23-14:12:59.159 1c40 Delete type=0 #4
-2023/08/23-14:12:59.159 1c40 Delete type=3 #2
-2023/08/23-14:14:04.677 4694 Level-0 table #9: started
-2023/08/23-14:14:04.689 4694 Level-0 table #9: 63707 bytes OK
-2023/08/23-14:14:04.696 4694 Delete type=0 #7
-2023/08/23-14:14:04.696 4694 Manual compaction at level-0 from '!folders!22aYDCdf2WLoMpJs' @ 72057594037927935 : 1 .. '!journal.pages!yHJlVqWuAkVhPTw1.geXDFaOzWyDhjad5' @ 0 : 0; will stop at (end)
-2023/08/23-14:14:04.696 4694 Manual compaction at level-1 from '!folders!22aYDCdf2WLoMpJs' @ 72057594037927935 : 1 .. '!journal.pages!yHJlVqWuAkVhPTw1.geXDFaOzWyDhjad5' @ 0 : 0; will stop at '!journal.pages!zs6SnjJwLZXBmoZI.wMf5WslDtXzb2N9P' @ 584 : 0
-2023/08/23-14:14:04.698 4694 Compacting 1@1 + 1@2 files
-2023/08/23-14:14:04.710 4694 Generated table #10@1: 304 keys, 53935 bytes
-2023/08/23-14:14:04.710 4694 Compacted 1@1 + 1@2 files => 53935 bytes
-2023/08/23-14:14:04.714 4694 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/23-14:14:04.714 4694 Delete type=2 #5
-2023/08/23-14:14:04.714 4694 Delete type=2 #9
-2023/08/23-14:14:04.714 4694 Manual compaction at level-1 from '!journal.pages!zs6SnjJwLZXBmoZI.wMf5WslDtXzb2N9P' @ 584 : 0 .. '!journal.pages!yHJlVqWuAkVhPTw1.geXDFaOzWyDhjad5' @ 0 : 0; will stop at (end)
+2024/04/18-08:15:36.156 6ab0 Recovering log #22
+2024/04/18-08:15:36.161 6ab0 Delete type=0 #22
+2024/04/18-08:15:36.161 6ab0 Delete type=3 #20
+2024/04/18-08:15:50.935 2d90 Level-0 table #27: started
+2024/04/18-08:15:50.939 2d90 Level-0 table #27: 70511 bytes OK
+2024/04/18-08:15:50.941 2d90 Delete type=0 #25
+2024/04/18-08:15:50.942 2d90 Manual compaction at level-0 from '!folders!0FpkopQ1AldZmqpl' @ 72057594037927935 : 1 .. '!journal.pages!zMyomNekxCPlCdZY.h9ROx7adhN7oVD2F' @ 0 : 0; will stop at '!journal.pages!zxabpABfWZF4HhXM.K3KYdyV9tAVcYbW3' @ 1853 : 0
+2024/04/18-08:15:50.942 2d90 Compacting 1@0 + 1@1 files
+2024/04/18-08:15:50.945 2d90 Generated table #28@0: 334 keys, 59085 bytes
+2024/04/18-08:15:50.945 2d90 Compacted 1@0 + 1@1 files => 59085 bytes
+2024/04/18-08:15:50.947 2d90 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/18-08:15:50.947 2d90 Delete type=2 #19
+2024/04/18-08:15:50.947 2d90 Delete type=2 #27
+2024/04/18-08:15:50.948 2d90 Manual compaction at level-0 from '!journal.pages!zxabpABfWZF4HhXM.K3KYdyV9tAVcYbW3' @ 1853 : 0 .. '!journal.pages!zMyomNekxCPlCdZY.h9ROx7adhN7oVD2F' @ 0 : 0; will stop at (end)
