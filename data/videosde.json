@@ -301,6 +301,18 @@
       "name": "Spielleiter Tutorials - Expert",
       "videos": [
         {
+          "name": "Abenteuerpunkte tracken",
+          "beschreibung": "In diesem Video zeige ich euch, wie ihr die Abenteuerpunkte eurer Charaktere in einem separaten Journal tracken könnt. Damit lässt sich sehr gut nachvollziehen wofür ihr eure Punkte ausgegeben habt.",
+          "link": "https://youtu.be/cU_ihu10n9c",
+          "date": "13.09.2024"
+        },
+        {
+          "name": "Auren in Foundry DSA",
+          "beschreibung": "DSA 5 für Foundry hat seit einiger Zeit eine Mechanik für Auren direkt ins System integriert. In diesem Video zeige ich euch wie sie funktionieren.",
+          "link": "https://youtu.be/IE_R_mAlAsw",
+          "date": "17.07.2024"
+        },
+        {
           "name": "Sicht und Licht",
           "beschreibung": "Foundry DSA hat neben den Basis Sicht und Licht Funktionen noch ein paar spezielle Tools. Wollt ihr die Dunkelsicht automatisch einrichten, Lichtquellen schnell setzen oder auf der Szene platzieren, all dies ist im System möglich. Da dies nicht unkompliziert ist, schaut euch dazu einmal das Video an.",
           "link": "https://youtu.be/2WnYh1kpXrU"
@@ -345,7 +357,13 @@
         "beschreibung": "Um Informationen zu Pflanzen, Kreaturen, Orten, Geschichte und vielen mehr mit euren Spielern zu teilen könnt ihr in Foundry DSA das Info Item nutzen. Mit diesem lassen sich Informationen nach einer erfolgreichen Probe passend zur Qualitätsstufe an die Spieler weiter geben.",
         "link": "https://youtu.be/G9Lq0g8gcCo",
         "date": "19.05.2023"
-      }
+        },
+        {  
+        "name": "Weltenzerstörer",
+        "beschreibung": "Das Weltenzerstörer Tool von Foundry DSA bietet Akteur Backup und Migrationsfunktionen. Damit könnt ihr eure Akteure sichern und die neusten Funktionen aus den Modulupdates migrieren.",
+        "link": "https://youtu.be/6jDq5Wdx85Y",
+        "date": "07.10.2024"
+        }
       ]
     },
     {
@@ -407,14 +425,26 @@
           "link": "https://youtu.be/gcmkeAkiqtk"
         },
         {
+          "name": "Brut der Niederhöllen",
+          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Brut der Niederhöllen",
+          "link": "https://youtu.be/gcmkeAkiqtk",
+          "date": "22.07.2024"
+        },
+        {
           "name": "Aventurische Tiergefährten",
           "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Tiergefährten",
-          "link": "https://youtu.be/P0_Q5ImS9Oc"
+          "link": "https://youtu.be/P0_Q5ImS9Oc",
         },
         {
           "name": "Aventurisches Herbarium",
           "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium",
           "link": "https://youtu.be/NbKwO9XMHB8"
+        },
+        {
+          "name": "Aventurisches Herbarium 2",
+          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium 2",
+          "link": "https://youtu.be/Y67f56_K0UA",
+          "date": "16.06.2023"
         },
         {
           "name": "Aventurische Rüstkammer 1",
@@ -445,12 +475,30 @@
           "name": "Orks - Hauer und schwarzer Pelz",
           "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Orks - Hauer und schwarzer Pelz",
           "link": "https://youtu.be/KHyMaPnbPXU"
+        },
+        {
+          "name": "Schuppenkleid & lange Zunge – Achaz",
+          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Schuppenkleid & lange Zunge – Achaz",
+          "link": "https://youtu.be/Qmax0Y_Abv8",
+          "date": "14.09.2023"
         }
       ]
     },
     {
       "name": "Vorstellung DSA Module - Abenteuer (SPOILER!)",
       "videos": [
+        {
+          "name": "Offenbarung des Himmels",
+          "beschreibung": "Offenbarung des Himmels ist ein sehr frühes DSA 5 Abenteuer und perfekt für den Einstieg in DSA und Foundry geeignet. Auch dieses Modul stelle ich im Video vor.",
+          "link": "https://youtu.be/N8HwwqCdGCo",
+          "date": "16.06.2023"
+        },
+        {
+          "name": "Hexenreigen",
+          "beschreibung": "Das Heldenwerk Hexenreigen ist für DSA Foundry erschienen und es ist frei verfügbar für alle. Was euch in dem Modul erwartet, stelle ich euch in meinem Video vor.",
+          "link": "https://youtu.be/qdmCNRlVqL4",
+          "date": "28.04.2023"
+        },
         {
           "name": "Rabenkrieg Howto mit Huepfklotz",
           "beschreibung": "Diesmal darf ich euch ein Video präsentieren ich dem ich keine Rolle spiele, aber Foundry DSA. Huepfklotz hat sich ans Mikro gesetzt und präsentiert euch ein Rabenkrieg Howto",
@@ -487,6 +535,12 @@
           "link": "https://youtu.be/MzicDL6dY90"
         },
         {
+          "name": "Rabenkrieg 4 – Die Krallen der Löwin",
+          "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 4 – Die Krallen der Löwin",
+          "link": "https://youtu.be/JxzzJ7Zf89E",
+          "date": "09.08.2024"
+        },
+        {
           "name": "Labyrinth der Intrigen",
           "beschreibung": "Vorstellung des Abenteuer Moduls - Labyrinth der Intrigen",
           "link": "https://youtu.be/Mmewcf2_M0c"
@@ -496,6 +550,54 @@
     {
       "name": "Vorstellung DSA Module - Sonstige",
       "videos": [
+        {
+          "name": "DSA5 Optolith Connector",
+          "beschreibung": "Durch den offiziell vom System Entwickler erstellten Optolith Connector, lassen sich Charaktere aus dem Optolithen nahtlos zu Foundry importieren. Einzige Vorrausetzung ist, dass die jeweiligen Module aktiviert sind, aus denen die Items des Charakters importiert werden sollen. Wie das ganze funktioniert, zeige ich euch in diesem Video.",
+          "link": "https://youtu.be/ZDyKZpKVoZQ",
+          "date": "12.07.2024"
+        },
+        {
+          "name": "Kaiser Retos Waffenkammer",
+          "beschreibung": "Kaiser Retos Waffenkammer ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
+          "link": "https://youtu.be/sfvZ45BgEvs",
+          "date": "15.03.2024"
+        },
+        {
+          "name": "Das Dornenreich",
+          "beschreibung": "Die Dornenreich RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
+          "link": "https://youtu.be/l6zgE88nXT8",
+          "date": "11.03.2024"
+        },
+        {
+          "name": "Winterwacht",
+          "beschreibung": "Mit der Winterwacht RSH ist die Region rund ums Bornland beschrieben. In diesem Modul findet ihr alles was ihr braucht um eine Kampagne in der Region spielen zu können.",
+          "link": "https://youtu.be/psx6IGv1d_k",
+          "date": "01.03.2024"
+        },
+        {
+          "name": "Havena – Versunkene Geheimnisse",
+          "beschreibung": "Havena ist die erste Stadtspielhilfe für DSA 5 und jetzt auch für Foundry DSA verfügbar. In diesem Modul findet ihr alles was ihr für Abenteuer in der Stadt benötigt. Was alles im Modul enthalten ist, zeige ich euch in meinem Video.",
+          "link": "https://youtu.be/mU_r5nKiPSA",
+          "date": "10.11.2023"
+        },
+        {
+          "name": "Dampfende Dschungel",
+          "beschreibung": "Die Dampfenden Dschungel enthalten den tiefen Süden und die Waldinseln Aventuriens. Auch hierzu habe ich ein Video erstellt mit dem was ihr durch den Kauf des Moduls erhaltet.",
+          "link": "https://youtu.be/9Soj_OsmJDU",
+          "date": "23.09.2023"
+        },
+        {
+          "name": "Das Wüstenreich",
+          "beschreibung": "Die Regionalspielhilfe zum Wüstenreich beschreibt die Wüste Khom und Thalusien. Auch hier sind viele Elemente aus den Büchern umgesetzt und in meinem Video zeige ich euch was alles enthalten ist.",
+          "link": "https://youtu.be/9U9qgTxJmjo",
+          "date": "15.09.2023"
+        },
+        {
+          "name": "Die Streitenden Königreiche",
+          "beschreibung": "Die Regionalspielhilfe der Streitenden Königreiche beschreibt die Regionen Nostria und Andergast. Diese wurde jetzt für Foundry DSA umgesetzt und ist als Modul verfügbar. Was euch in dem Modul erwartet, seht ihr in meinem Video.",
+          "link": "https://youtu.be/R6b5VoQYAd0",
+          "date": "15.09.2023"
+        },
         {
           "name": "System und Introduction Adventure",
           "beschreibung": "Vorstellung des DSA Systems und Introduction Adventures",
@@ -515,24 +617,6 @@
           "name": "Aventurische Tavernen",
           "beschreibung": "Vorstellung des DSA Moduls - Aventurische Tavernen",
           "link": "https://youtu.be/no5aK7Zp3bs"
-        },
-        {
-          "name": "Kaiser Retos Waffenkammer",
-          "beschreibung": "Kaiser Retos Waffenkammer ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
-          "link": "https://youtu.be/sfvZ45BgEvs",
-          "date": "15.03.2024"
-        },
-        {
-          "name": "Dornenreich",
-          "beschreibung": "Die Dornenreich RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
-          "link": "https://youtu.be/l6zgE88nXT8",
-          "date": "11.03.2024"
-        },
-        {
-          "name": "Winterwacht",
-          "beschreibung": "Die Winterwacht RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
-          "link": "https://youtu.be/psx6IGv1d_k",
-          "date": "01.03.2024"
         }
       ]
     },
