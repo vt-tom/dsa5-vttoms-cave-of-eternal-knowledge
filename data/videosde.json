@@ -3,678 +3,392 @@
     {
       "name": "Intro",
       "videos": [
-      {  
-        "name": "Willkommen zu VTToms DSA-Kunde",
-        "beschreibung": "<h2>Willkommen zu VTToms DSA-Kunde</h2><p>In diesem Modul findet ihr meine Videos zu Foundry und DSA. Die Videos sind alle direkt in Foundry abspielbar. Damit könnt ihr das Video laufen lassen und direkt ausprobieren. Weitere Informationen und News findet ihr auf meiner Webseite:</p><p><a href=\"https://vttom.de\">Meine Homepage</a></p>",
-        "link": ""
-      }
+        {
+          "name": "Willkommen zu VTToms DSA-Kunde",
+          "beschreibung": "<h2>Willkommen zu VTToms DSA-Kunde</h2><p>In diesem Modul findet ihr meine Videos zu Foundry und DSA. Die Videos sind alle direkt in Foundry abspielbar. Damit könnt ihr das Video laufen lassen und direkt ausprobieren. Weitere Informationen und News findet ihr auf meiner Webseite:</p><p><a href=\"https://vttom.de\">Meine Homepage</a></p>",
+          "link": ""
+        }
       ]
     },
     {
       "name": "Foundry Basics",
       "videos": [
-        {
-          "name": "0. Erste Schritte",
-          "beschreibung": "Im Erste Schritte Video starte ich Foundry das erste mal und zeige was alles eingestellt werden sollte damit die erste Runde starten kann.",
-          "link": "https://youtu.be/98BPLTdvQ04"
-        },
-        {
-          "name": "1. Szenen",
-          "beschreibung": "Szenen sind eines der essentielsten Werkzeuge für Foundry VTT. Mit einer Szene lassen sich nicht nur Battlemaps abbilden, auch eine Landing Page oder Theatre of the Mind (TOTM) Bilder lassen sich hiermit abbilden. In diesem Video erkläre ich alle Grundlagen zum Erstellen einer Szene.",
-          "link": "https://youtu.be/mdHmOF66frk"
-        },
-        {
-          "name": "2. Akteure",
-          "beschreibung": "Ohne Akteure habe ich keinen Charakterbogen und könnt keinen Tokens auf Szenen platzieren. In diesem Video erfahrt ihr alles über Akteure, was nicht durch ein System individualisiert wird.",
-          "link": "https://youtu.be/CO7F7wi9Gz4"
-        },
-        {
-          "name": "3. Wände",
-          "beschreibung": "Wenn ihr mit der Sicht eines Tokens auf einer Szene spielen wollt, dann braucht ihr oft Wände. Wände gibt es mit verschiedenen Funktionen und diese stelle ich im Video vor.",
-          "link": "https://youtu.be/xA3pp5MuezY"
-        },
-        {
-          "name": "4. Sicht und Licht",
-          "beschreibung": "Auch wichtig um die reale Sicht eines Tokens abzubilden sind die Sicht und Lichteinstellungen von Foundry. Da dies recht komplex ist, schaut in das Video und probiert es dann vor eurer ersten Sitzung am besten erstmal aus Spielersicht aus.",
-          "link": "https://youtu.be/Y86e-juqVAo"
-        },
-        {
-          "name": "5. Chat und Proben",
-          "beschreibung": "Im Chat werden eure Nachrichten aber auch Proben abgebildet. Außerhalb des Charakterbogens lassen sich hier auch weitere Proben oder Befehle verwenden. Einiges davon stelle ich in diesem Video vor.",
-          "link": "https://youtu.be/Fr49IADp0aM"
-        },
-        {
-          "name": "6. Sounds und Musik",
-          "beschreibung": "Soundeffekte, Ambiente Sounds oder Musik sind super um eure Session um eine weitere Komponente zu erweitern. In diesem Video zeige ich euch, wie ihr das direkt in Foundry VTT machen könnt.",
-          "link": "https://youtu.be/24Y_EOaqIDM"
-        },
-        {
-          "name": "7. Kompendien",
-          "beschreibung": "Kompendien sind die Lagerhalle in Foundry VTT. Aber nicht nur um eine Übersicht in eurer Welt zu behalten solltet ihr alles was ihr nicht braucht in Kompendien lagern, auch für die Performance sind Dinge viel besser in Kompendien aufgehoben. Außerdem liefern sämtliche Content Module ihren Inhalt initial über Kompendien aus.",
-          "link": "https://youtu.be/w037QZZ79Lk"
-        },
-        {
-          "name": "8. Kacheln/Tiles",
-          "beschreibung": "Kacheln haben viele Funktionen. Angefangen vom einfachen einblenden eines Bilder auf einer Szene, über Videos bis hin zu Dächern ist viel mit ihnen Möglich. Ein paar der Funktionen zeige ich in diesem Video.",
-          "link": "https://youtu.be/ZnagXkLTHWg"
-        },
-        {
-          "name": "9. Benutzer und Berechtigungen",
-          "beschreibung": "Um euren Spielern besondere Rechte zu geben/nehmen gibt es die Benutzer und Berechtigungssteuerung in Foundry VTT. In diesem Video zeige ich euch, wie ihr Benutzer anlegt und welche Rechte ihr verwalten könnt.",
-          "link": "https://youtu.be/-CQ5lLlrwkA"
-        },
-        {
-          "name": "10. User Data Path",
-          "beschreibung": "In diesem Video erkläre ich euch den User Data Path. Das Verständnis davon wie dieser funktioniert ist wichtig für alle Bilder, Videos, Audio Dateien die ihr in Foundry nutzen wollt. Außerdem ist dies der Pfad den ihr regelmäßig als Backup sichern solltet.",
-          "link": "https://youtu.be/wJhCDkyb5_A"
-        },
-        {
-          "name": "11. Journals (v10)",
-          "beschreibung": "In diesem Video zeige ich euch alle Funktionen der Journal Entrys und Pages. Ihr könnt in einem Journal Entry verschiedene Pages anlegen, darunter auch Bilder, Videos oder sogar PDF Dateien. Außerdem haben sich die Links untereinander verändert so, dass ihr Inhaltlisten oder Querverweise anlegen könnt.",
-          "link": "https://youtu.be/7SX2TZ_pVP8"
-        },
-        {
-          "name": "12. Shared Compendium (v11)",
-          "beschreibung": "Seit Foundry v11 gibt es direkt im Setup die Möglichkeit Shared/Adventure Compendien anzulegen und zu verwalten. Noch nie war es so einfach ein geteiltes Kompendium anzulegen.",
-          "link": "https://youtu.be/2S0BkTuEQDg",
-          "date": "30.09.2023"
-        },
-        {
-          "name": "Backups direkt in Foundry",
-          "beschreibung": "Foundry hat seit der Version 11.311 eine integrierte Backup Funktion. Mit dieser lassen sich Welten, Systeme und Module sichern und bei Problemen direkt mit dem Foundry Setup wieder herstellen.",
-          "link": "https://youtu.be/S2-XyYh89Zo",
-          "date": "13.10.2023"
-        }
+        { "name": "0. Erste Schritte", "beschreibung": "Im Erste Schritte Video starte ich Foundry das erste mal und zeige was alles eingestellt werden sollte damit die erste Runde starten kann.", "link": "https://youtu.be/98BPLTdvQ04" },
+        { "name": "1. Szenen", "beschreibung": "Szenen sind eines der essentielsten Werkzeuge für Foundry VTT. Mit einer Szene lassen sich nicht nur Battlemaps abbilden, auch eine Landing Page oder Theatre of the Mind (TOTM) Bilder lassen sich hiermit abbilden. In diesem Video erkläre ich alle Grundlagen zum Erstellen einer Szene.", "link": "https://youtu.be/mdHmOF66frk" },
+        { "name": "2. Akteure", "beschreibung": "Ohne Akteure habe ich keinen Charakterbogen und könnt keinen Tokens auf Szenen platzieren. In diesem Video erfahrt ihr alles über Akteure, was nicht durch ein System individualisiert wird.", "link": "https://youtu.be/CO7F7wi9Gz4" },
+        { "name": "3. Wände", "beschreibung": "Wenn ihr mit der Sicht eines Tokens auf einer Szene spielen wollt, dann braucht ihr oft Wände. Wände gibt es mit verschiedenen Funktionen und diese stelle ich im Video vor.", "link": "https://youtu.be/xA3pp5MuezY" },
+        { "name": "4. Sicht und Licht", "beschreibung": "Auch wichtig um die reale Sicht eines Tokens abzubilden sind die Sicht und Lichteinstellungen von Foundry. Da dies recht komplex ist, schaut in das Video und probiert es dann vor eurer ersten Sitzung am besten erstmal aus Spielersicht aus.", "link": "https://youtu.be/Y86e-juqVAo" },
+        { "name": "5. Chat und Proben", "beschreibung": "Im Chat werden eure Nachrichten aber auch Proben abgebildet. Außerhalb des Charakterbogens lassen sich hier auch weitere Proben oder Befehle verwenden. Einiges davon stelle ich in diesem Video vor.", "link": "https://youtu.be/Fr49IADp0aM" },
+        { "name": "6. Sounds und Musik", "beschreibung": "Soundeffekte, Ambiente Sounds oder Musik sind super um eure Session um eine weitere Komponente zu erweitern. In diesem Video zeige ich euch, wie ihr das direkt in Foundry VTT machen könnt.", "link": "https://youtu.be/24Y_EOaqIDM" },
+        { "name": "7. Kompendien", "beschreibung": "Kompendien sind die Lagerhalle in Foundry VTT. Aber nicht nur um eine Übersicht in eurer Welt zu behalten solltet ihr alles was ihr nicht braucht in Kompendien lagern, auch für die Performance sind Dinge viel besser in Kompendien aufgehoben. Außerdem liefern sämtliche Content Module ihren Inhalt initial über Kompendien aus.", "link": "https://youtu.be/w037QZZ79Lk" },
+        { "name": "8. Kacheln/Tiles", "beschreibung": "Kacheln haben viele Funktionen. Angefangen vom einfachen einblenden eines Bilder auf einer Szene, über Videos bis hin zu Dächern ist viel mit ihnen möglich. Ein paar der Funktionen zeige ich in diesem Video.", "link": "https://youtu.be/ZnagXkLTHWg" },
+        { "name": "9. Benutzer und Berechtigungen", "beschreibung": "Um euren Spielern besondere Rechte zu geben/nehmen gibt es die Benutzer und Berechtigungssteuerung in Foundry VTT. In diesem Video zeige ich euch, wie ihr Benutzer anlegt und welche Rechte ihr verwalten könnt.", "link": "https://youtu.be/-CQ5lLlrwkA" },
+        { "name": "10. User Data Path", "beschreibung": "In diesem Video erkläre ich euch den User Data Path. Das Verständnis davon wie dieser funktioniert ist wichtig für alle Bilder, Videos, Audio Dateien die ihr in Foundry nutzen wollt. Außerdem ist dies der Pfad den ihr regelmäßig als Backup sichern solltet.", "link": "https://youtu.be/wJhCDkyb5_A" },
+        { "name": "11. Journals (v10)", "beschreibung": "In diesem Video zeige ich euch alle Funktionen der Journal Entrys und Pages. Ihr könnt in einem Journal Entry verschiedene Pages anlegen, darunter auch Bilder, Videos oder sogar PDF Dateien. Außerdem haben sich die Links untereinander verändert so, dass ihr Inhaltlisten oder Querverweise anlegen könnt.", "link": "https://youtu.be/7SX2TZ_pVP8" },
+        { "name": "12. Shared Compendium (v11)", "beschreibung": "Seit Foundry v11 gibt es direkt im Setup die Möglichkeit Shared/Adventure Compendien anzulegen und zu verwalten. Noch nie war es so einfach ein geteiltes Kompendium anzulegen.", "link": "https://youtu.be/2S0BkTuEQDg", "date": "30.09.2023" },
+        { "name": "Backups direkt in Foundry", "beschreibung": "Foundry hat seit der Version 11.311 eine integrierte Backup Funktion. Mit dieser lassen sich Welten, Systeme und Module sichern und bei Problemen direkt mit dem Foundry Setup wieder herstellen.", "link": "https://youtu.be/S2-XyYh89Zo", "date": "13.10.2023" },
+        { "name": "Player Tutorial - Foundry Basics [Tom's Tutorial]", "beschreibung": "In diesem Video zeige ich euch als Spieler was ihr zu Foundry's Basis Funktionen wissen müsst.", "link": "https://youtu.be/l9CqrGrAZTQ", "date": "09.12.2022" },
+        { "name": "Szene: Vordergrund und Dach", "beschreibung": "In diesem Tutorial zeige ich dir wie du ein Vordergrund Image und Dächer verwenden kannst.", "link": "https://youtu.be/473MfU-Z6bA", "date": "02.10.2021" }
       ]
     },
     {
       "name": "Spieler Tutorials",
       "videos": [
-        {  
-          "name": "Spieler Tutorial",
-          "beschreibung": "Dies ist ein grundlegendes Spieler Tutorial, welches primär die Foundry Funktionen umfasst. Es werden aber auch ein paar DSA Funktionen gezeigt.",
-          "link": "https://youtu.be/yMvoTOpj71s"
-        },
-        {  
-          "name": "Charakterbogen",
-          "beschreibung": "Wie funktioniert der Charakterbogen? Was kann ich alles auf den einzelnen Tabs machen? Dies beantworte ich euch in diesem Video, in dem ich den Charbogen einmal komplett durch gehe.",
-          "link": "https://youtu.be/hLjNxQ1Alns"
-        },
-        {  
-          "name": "Proben",
-          "beschreibung": "Dieses Video behandelt die Proben in DSA Foundry. Gezeigt werden unter anderem die Eigenschafts-, Talent- und Kampfproben.",
-          "link": "https://youtu.be/9RtUf0adIhg"
-        },
-        {  
-          "name": "Kampf für Spieler",
-          "beschreibung": "Wie läuft der Kampf aus Spielersicht in Foundry DSA ab. Was solltet ihr machen um die Automatismen in Foundry DSA richtig zu nutzen und welche speziellen Funktionen gibt es? Das alles behandle ich in diesem Video.",
-          "link": "https://youtu.be/HBDHielRUgY"
-        },
-        {
-          "name": "Heldenerschaffung in Foundry DSA",
-          "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.",
-          "link": "https://youtu.be/PDenI-po_Rg",
-          "date": "29.12.2023"
-        },
-        {  
-          "name": "Charaktererstellung",
-          "beschreibung": "Die Charaktererstellung in Foundry DSA funktioniert sehr gut, wenn man weiß worauf geachtet werden muss. Dies zeige ich euch in diesem Video.",
-          "link": "https://youtu.be/XhpYD_cvpEk"
-        },
-        {  
-          "name": "Ausrüstung",
-          "beschreibung": "DSA Foundry hat eine umfassende Ausrüstungsverwaltung. Viele Funktionen findet ihr in diesem Video.",
-          "link": "https://youtu.be/0PY5asQ8M0g"
-        },
-        {  
-          "name": "Traditionsartefakte",
-          "beschreibung": "Die Traditionsartefakte der einzelnen magischen Traditionen lassen sich auch in DSA Foundry abbilden. Dafür gibt es einen Abschnitt im Magie Tab des Charakterbogens. Wie das ganze funktioniert zeige ich euch in diesem kurzen Tutorial.",
-          "link": "https://youtu.be/YnReQrVH6tA",
-          "date": "13.05.2023"
-        },
-        {  
-          "name": "Spielermenü – Beschwörungen",
-          "beschreibung": "Für die Beschwörung von Dämonen, Elementaren und anderen Wesen gibt es ein eigenes Menü, welches euch das Thema deutlich erleichtert. Im Video zeige ich euch wie ihr dieses Menü verwendet.",
-          "link": "https://youtu.be/aKwpKp7m6eA"
-        }
+        { "name": "Spieler Tutorial", "beschreibung": "Dies ist ein grundlegendes Spieler Tutorial, welches primär die Foundry Funktionen umfasst. Es werden aber auch ein paar DSA Funktionen gezeigt.", "link": "https://youtu.be/yMvoTOpj71s" },
+        { "name": "Charakterbogen", "beschreibung": "Wie funktioniert der Charakterbogen? Was kann ich alles auf den einzelnen Tabs machen? Dies beantworte ich euch in diesem Video, in dem ich den Charbogen einmal komplett durch gehe.", "link": "https://youtu.be/hLjNxQ1Alns" },
+        { "name": "Proben", "beschreibung": "Dieses Video behandelt die Proben in DSA Foundry. Gezeigt werden unter anderem die Eigenschafts-, Talent- und Kampfproben.", "link": "https://youtu.be/9RtUf0adIhg" },
+        { "name": "Kampf für Spieler", "beschreibung": "Wie läuft der Kampf aus Spielersicht in Foundry DSA ab. Was solltet ihr machen um die Automatismen in Foundry DSA richtig zu nutzen und welche speziellen Funktionen gibt es? Das alles behandle ich in diesem Video.", "link": "https://youtu.be/HBDHielRUgY" },
+        { "name": "Heldenerschaffung in Foundry DSA", "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.", "link": "https://youtu.be/PDenI-po_Rg", "date": "29.12.2023" },
+        { "name": "Charaktererstellung", "beschreibung": "Die Charaktererstellung in Foundry DSA funktioniert sehr gut, wenn man weiß worauf geachtet werden muss. Dies zeige ich euch in diesem Video.", "link": "https://youtu.be/XhpYD_cvpEk" },
+        { "name": "Ausrüstung", "beschreibung": "DSA Foundry hat eine umfassende Ausrüstungsverwaltung. Viele Funktionen findet ihr in diesem Video.", "link": "https://youtu.be/0PY5asQ8M0g" },
+        { "name": "Traditionsartefakte", "beschreibung": "Die Traditionsartefakte der einzelnen magischen Traditionen lassen sich auch in DSA Foundry abbilden. Dafür gibt es einen Abschnitt im Magie Tab des Charakterbogens. Wie das ganze funktioniert zeige ich euch in diesem kurzen Tutorial.", "link": "https://youtu.be/YnReQrVH6tA", "date": "13.05.2023" },
+        { "name": "Spielermenü – Beschwörungen", "beschreibung": "Für die Beschwörung von Dämonen, Elementaren und anderen Wesen gibt es ein eigenes Menü, welches euch das Thema deutlich erleichtert. Im Video zeige ich euch wie ihr dieses Menü verwendet.", "link": "https://youtu.be/aKwpKp7m6eA" },
+        { "name": "Was brauche ich für Foundry DSA?", "beschreibung": "Wenn ihr mit Foundry DSA5 starten wollt, stellt sich oft die Frage: was brauche ich überhaupt dafür? In diesem Video versuche ich euch diese Frage zu beantworten.", "link": "https://youtu.be/f2vQjC9lR-4", "date": "16.03.2025" },
+        { "name": "Optolith Charaktererstellung", "beschreibung": "In diesem Tutorial stelle ich euch das DSA 5 Tool Optolith vor. Mit diesem könnt ihr Charaktere erstellen, die komplett Regeltreu sind.", "link": "https://youtu.be/mr_1s9jDrxw", "date": "18.07.2021" }
       ]
     },
     {
       "name": "Shorts",
       "videos": [
-        {
-          "name": "Waffenloser Kampf, Ausweichen, Sturzschaden",
-          "beschreibung": "Der Waffenlose Kampf, Ausweichen und Sturzschaden sind alle auf dem Kampf Tab als Symbole zu finden.",
-          "link": "https://youtu.be/ZZBC-u01TEU",
-          "date": "21.07.2023"
-        },
-        {
-          "name": "Krankheitsprobe",
-          "beschreibung": "Wie führt man eine Krankheitsprobe in Foundry DSA aus?",
-          "link": "https://youtu.be/J4w_Sgr6QpA",
-          "date": "15.07.2023"
-        },
-        {
-          "name": "Waffe vergiften",
-          "beschreibung": " Wie werden Waffen in Foundry DSA vergiftet?",
-          "link": "https://youtu.be/6WOdGez1PH4",
-          "date": "15.07.2023"
-        },
-        {
-          "name": "Fackeln, Laternen usw.",
-          "beschreibung": "Wie funktionieren Lichtquellen in Foundry DSA?",
-          "link": "https://youtu.be/64oqzsoVxFM",
-          "date": "03.06.2023"
-        },
-        {
-          "name": "Schicksalspunkte",
-          "beschreibung": "Wie funktionieren die Schicksalspunkte im Chat und Charakterbogen?",
-          "link": "https://youtu.be/0h10xfNvWCI"
-        },
-        {
-          "name": "Gestaltwandlung",
-          "beschreibung": "Wie kann ich die Gestaltwandlung für zum Beispiel Adlerschwinge in Foundry umsetzen?",
-          "link": "https://youtu.be/k82thRp7cNc"
-        },
-        {
-          "name": "Erschweren/Erleichtern",
-          "beschreibung": "Wie erschwere/erleichtere ich mir eine Probe?",
-          "link": "https://youtu.be/_5VqrPZhAno"
-        },
-        {
-          "name": "Regeneration",
-          "beschreibung": "Wie funktioniert die Regeneration aus dem Charakterbogen und wie wende ich das Ergebnis an?",
-          "link": "https://youtu.be/ccuQWJj9mP8"
-        },
-        {
-          "name": "KaP/AsP Kosten bezahlen",
-          "beschreibung": "Wie bezahle ich die KaP/AsP Kosten nach der Verwendung einer Liturgie/eines Zaubers?",
-          "link": "https://youtu.be/Zf_Way2gy88"
-        },
-        {
-          "name": "Schaden anwenden",
-          "beschreibung": "Wie wende ich den Schaden direkt aus der Chatkarte an?",
-          "link": "https://youtu.be/8Eenvi-kt4I"
-        },
-        {
-          "name": "Wurfwaffen nachladen",
-          "beschreibung": "Wie lade ich eine Wurfwaffe nach dem Wurf nach?",
-          "link": "https://youtu.be/N-UhOHs7DPE"
-        },
-        {
-          "name": "Vertrautentier",
-          "beschreibung": "Wie lege ich einen Tier-Vertrauten (z.B. für Hexen) an?",
-          "link": "https://youtu.be/6zO3le8GbI4"
-        },
-        {
-          "name": "Sammelproben",
-          "beschreibung": "Die Sammelproben werden im Talente Tab des Charakterbogens angelegt und verwendet.",
-          "link": "https://youtu.be/0Ro-dwS_vPM",
-          "date": "12.04.2024"
-        },
-        {
-          "name": "Gruppenproben",
-          "beschreibung": "Gruppenproben in Foundry DSA lassen sich auf 3 Arten auslösen: im Chat, in Journals und per Meister Hotbar.",
-          "link": "https://youtu.be/EHnMaA8VlWY",
-          "date": "12.04.2024"
-        },
-        {
-          "name": "Waffen und Rüstungsverschleiß",
-          "beschreibung": "Der Waffen und Rüstungsverschleiß ist eine Bonusfunktion die aktiviert werden muss. Danach löst das System automatisch die Bruchfaktorproben aus.",
-          "link": "https://youtu.be/vFMl081mj9U",
-          "date": "12.04.2024"
-        }
+        { "name": "Waffenloser Kampf, Ausweichen, Sturzschaden", "beschreibung": "Der Waffenlose Kampf, Ausweichen und Sturzschaden sind alle auf dem Kampf Tab als Symbole zu finden.", "link": "https://youtu.be/ZZBC-u01TEU", "date": "21.07.2023" },
+        { "name": "Krankheitsprobe", "beschreibung": "Wie führt man eine Krankheitsprobe in Foundry DSA aus?", "link": "https://youtu.be/J4w_Sgr6QpA", "date": "15.07.2023" },
+        { "name": "Waffe vergiften", "beschreibung": " Wie werden Waffen in Foundry DSA vergiftet?", "link": "https://youtu.be/6WOdGez1PH4", "date": "15.07.2023" },
+        { "name": "Fackeln, Laternen usw.", "beschreibung": "Wie funktionieren Lichtquellen in Foundry DSA?", "link": "https://youtu.be/64oqzsoVxFM", "date": "03.06.2023" },
+        { "name": "Schicksalspunkte", "beschreibung": "Wie funktionieren die Schicksalspunkte im Chat und Charakterbogen?", "link": "https://youtu.be/0h10xfNvWCI" },
+        { "name": "Gestaltwandlung", "beschreibung": "Wie kann ich die Gestaltwandlung für zum Beispiel Adlerschwinge in Foundry umsetzen?", "link": "https://youtu.be/k82thRp7cNc" },
+        { "name": "Erschweren/Erleichtern", "beschreibung": "Wie erschwere/erleichtere ich mir eine Probe?", "link": "https://youtu.be/_5VqrPZhAno" },
+        { "name": "Regeneration", "beschreibung": "Wie funktioniert die Regeneration aus dem Charakterbogen und wie wende ich das Ergebnis an?", "link": "https://youtu.be/ccuQWJj9mP8" },
+        { "name": "KaP/AsP Kosten bezahlen", "beschreibung": "Wie bezahle ich die KaP/AsP Kosten nach der Verwendung einer Liturgie/eines Zaubers?", "link": "https://youtu.be/Zf_Way2gy88" },
+        { "name": "Schaden anwenden", "beschreibung": "Wie wende ich den Schaden direkt aus der Chatkarte an?", "link": "https://youtu.be/8Eenvi-kt4I" },
+        { "name": "Wurfwaffen nachladen", "beschreibung": "Wie lade ich eine Wurfwaffe nach dem Wurf nach?", "link": "https://youtu.be/N-UhOHs7DPE" },
+        { "name": "Vertrautentier", "beschreibung": "Wie lege ich einen Tier-Vertrauten (z.B. für Hexen) an?", "link": "https://youtu.be/6zO3le8GbI4" },
+        { "name": "Sammelproben", "beschreibung": "Die Sammelproben werden im Talente Tab des Charakterbogens angelegt und verwendet.", "link": "https://youtu.be/0Ro-dwS_vPM", "date": "12.04.2024" },
+        { "name": "Gruppenproben", "beschreibung": "Gruppenproben in Foundry DSA lassen sich auf 3 Arten auslösen: im Chat, in Journals und per Meister Hotbar.", "link": "https://youtu.be/EHnMaA8VlWY", "date": "12.04.2024" },
+        { "name": "Waffen und Rüstungsverschleiß", "beschreibung": "Der Waffen und Rüstungsverschleiß ist eine Bonusfunktion die aktiviert werden muss. Danach löst das System automatisch die Bruchfaktorproben aus.", "link": "https://youtu.be/vFMl081mj9U", "date": "12.04.2024" },
+        { "name": "Globale Modifikatoren", "beschreibung": "Wie funktionieren die Globalen Modifikatoren in Foundry DSA? Das zeige ich euch in diesem Short.", "link": "https://youtu.be/zkbu-e0ti7E", "date": "04.05.2025" }
       ]
     },
     {
       "name": "Spielleiter Tutorials - Grundlagen",
       "videos": [
-        {
-          "name": "Charakterbogen",
-          "beschreibung": "Wie funktioniert der Charakterbogen? Was kann ich alles auf den einzelnen Tabs machen? Dies beantworte ich euch in diesem Video, in dem ich den Charbogen einmal komplett durch gehe.",
-          "link": "https://youtu.be/hLjNxQ1Alns"
-        },
-        {
-          "name": "Proben",
-          "beschreibung": "Dieses Video behandelt die Proben in DSA Foundry. Gezeigt werden unter anderem die Eigenschafts-, Talent- und Kampfproben.",
-          "link": "https://youtu.be/9RtUf0adIhg"
-        },
-        {
-          "name": "Kampf für Spielleiter",
-          "beschreibung": "Der Kampf ist sehr gut in Foundry DSA umgesetzt. Allerdings muss man dabei einiges beachten um einen sauberen Ablauf zu gewährleisten. Alles Wichtige dazu findet ihr in diesem Video.",
-          "link": "https://youtu.be/7SrhjOfpyYs"
-        },
-        {
-          "name": "Heldenerschaffung in Foundry DSA",
-          "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.",
-          "link": "https://youtu.be/PDenI-po_Rg",
-          "date": "29.12.2023"
-        },
-        {
-          "name": "Charaktererstellung",
-          "beschreibung": "Die Charaktererstellung in Foundry DSA funktioniert sehr gut, wenn man weiß worauf geachtet werden muss. Dies zeige ich euch in diesem Video.",
-          "link": "https://youtu.be/XhpYD_cvpEk"
-        },
-        {
-          "name": "Meister Menü",
-          "beschreibung": "Das Meister Menü ist die Schaltzentrale für verschiedene Funtionen: Schicksalspunkte vergeben, Erfahrungspunkte an die Spieler verteilen, Geld auszahlen/einzahlen, Opfer auswürfeln, Proben verlangen uvm. Einige Funktionen zeige ich euch in diesem Video.",
-          "link": "https://youtu.be/KdcEsJ2CDB0"
-        },
-        {
-          "name": "Bibliothek",
-          "beschreibung": "Die Bibliothek ist essentiel für Foundry DSA. Anstatt sich durch die einzelnen Kompendien zu wühlen, könnt ihr die Bibliothek bequem nutzen um sowohl den DSA Content als auch eure eigenen Sachen in Kompendien oder der Welt zu suchen.",
-          "link": "https://youtu.be/EzyWc9iUP2I"
-        },
-        {
-          "name": "Händler, Schatz und Garadan",
-          "beschreibung": "Ob Händler, eine Truhe mit einem Schatz, ein bisschen Loot von Gegnern oder besondere NSCs, all das lässt sich über das Merchant Sheet von DSA Foundry lösen. In diesem Video zeige ich euch wie das geht.",
-          "link": "https://youtu.be/xeByoZVdIo0"
-        },
-        {
-          "name": "Bilder und Beschreibung teilen",
-          "beschreibung": "Im DSA System ist ein einfaches Teilen von Bilder aus Akteure oder Journals direkt ins System integriert. So kann das Bild eines NSCs oder ein schönes Stimmungsbild aus dem Journal direkt euren Spieler gezeigt werden.",
-          "link": "https://youtu.be/VJpNOtHYBDI"
-        },
-        {
-          "name": "Gifte, Artefakte und Talismane",
-          "beschreibung": "Gifte, Artefakte und göttliche Talismane sind ebenfalls mit Mechaniken in Foundry DSA implementiert. Wie sie alle funktionieren seht ihr in diesem Video.",
-          "link": "https://youtu.be/PpyQzPbCGzI"
-        },
-        {
-          "name": "Items erstellen",
-          "beschreibung": "Grundlegend funktioniert das anlegen von Items in Foundry ähnlich wie in anderen Systemen. Trotzdem hab ich extra für Foundry DSA ein kurzes Video hierzu aufgenommen.",
-          "link": "https://youtu.be/47ikyX-1A8E"
-        },
-        {
-          "name": "Magier, Geweihte, Vertraute und Gestaltwandlung",
-          "beschreibung": "Magier, Geweihte und die Gestaltwandlung funktionieren in DSA Foundry auf eine etwas besondere Art und Weise. Damit ihr wisst wie ihr damit umgeht, habe ich alles Wichtige in diesem Video für euch zusammen gefasst.",
-          "link": "https://youtu.be/-cuWOYTwUCg"
-        },
-        {
-          "name": "Ausrüstung",
-          "beschreibung": "DSA Foundry hat eine umfassende Ausrüstungsverwaltung. Viele Funktionen findet ihr in diesem Video.",
-          "link": "https://youtu.be/0PY5asQ8M0g"
-        }
+        { "name": "Charakterbogen", "beschreibung": "Wie funktioniert der Charakterbogen? Was kann ich alles auf den einzelnen Tabs machen? Dies beantworte ich euch in diesem Video, in dem ich den Charbogen einmal komplett durch gehe.", "link": "https://youtu.be/hLjNxQ1Alns" },
+        { "name": "Proben", "beschreibung": "Dieses Video behandelt die Proben in DSA Foundry. Gezeigt werden unter anderem die Eigenschafts-, Talent- und Kampfproben.", "link": "https://youtu.be/9RtUf0adIhg" },
+        { "name": "Kampf für Spielleiter", "beschreibung": "Der Kampf ist sehr gut in Foundry DSA umgesetzt. Allerdings muss man dabei einiges beachten um einen sauberen Ablauf zu gewährleisten. Alles Wichtige dazu findet ihr in diesem Video.", "link": "https://youtu.be/7SrhjOfpyYs" },
+        { "name": "Heldenerschaffung in Foundry DSA", "beschreibung": "Durch ein neues Tool ist die Heldenerschaffung/der Charakterbau in Foundry DSA so leicht wie nie zuvor. In diesem Video zeige ich euch wie das Tool funktioniert.", "link": "https://youtu.be/PDenI-po_Rg", "date": "29.12.2023" },
+        { "name": "Charaktererstellung", "beschreibung": "Die Charaktererstellung in Foundry DSA funktioniert sehr gut, wenn man weiß worauf geachtet werden muss. Dies zeige ich euch in diesem Video.", "link": "https://youtu.be/XhpYD_cvpEk" },
+        { "name": "Meister Menü", "beschreibung": "Das Meister Menü ist die Schaltzentrale für verschiedene Funtionen: Schicksalspunkte vergeben, Erfahrungspunkte an die Spieler verteilen, Geld auszahlen/einzahlen, Opfer auswürfeln, Proben verlangen uvm. Einige Funktionen zeige ich euch in diesem Video.", "link": "https://youtu.be/KdcEsJ2CDB0" },
+        { "name": "Bibliothek", "beschreibung": "Die Bibliothek ist essentiel für Foundry DSA. Anstatt sich durch die einzelnen Kompendien zu wühlen, könnt ihr die Bibliothek bequem nutzen um sowohl den DSA Content als auch eure eigenen Sachen in Kompendien oder der Welt zu suchen.", "link": "https://youtu.be/EzyWc9iUP2I" },
+        { "name": "Händler, Schatz und Garadan", "beschreibung": "Ob Händler, eine Truhe mit einem Schatz, ein bisschen Loot von Gegnern oder besondere NSCs, all das lässt sich über das Merchant Sheet von DSA Foundry lösen. In diesem Video zeige ich euch wie das geht.", "link": "https://youtu.be/xeByoZVdIo0" },
+        { "name": "Bilder und Beschreibung teilen", "beschreibung": "Im DSA System ist ein einfaches Teilen von Bilder aus Akteure oder Journals direkt ins System integriert. So kann das Bild eines NSCs oder ein schönes Stimmungsbild aus dem Journal direkt euren Spieler gezeigt werden.", "link": "https://youtu.be/VJpNOtHYBDI" },
+        { "name": "Gifte, Artefakte und Talismane", "beschreibung": "Gifte, Artefakte und göttliche Talismane sind ebenfalls mit Mechaniken in Foundry DSA implementiert. Wie sie alle funktionieren seht ihr in diesem Video.", "link": "https://youtu.be/PpyQzPbCGzI" },
+        { "name": "Items erstellen", "beschreibung": "Grundlegend funktioniert das anlegen von Items in Foundry ähnlich wie in anderen Systemen. Trotzdem hab ich extra für Foundry DSA ein kurzes Video hierzu aufgenommen.", "link": "https://youtu.be/47ikyX-1A8E" },
+        { "name": "Magier, Geweihte, Vertraute und Gestaltwandlung", "beschreibung": "Magier, Geweihte und die Gestaltwandlung funktionieren in DSA Foundry auf eine etwas besondere Art und Weise. Damit ihr wisst wie ihr damit umgeht, habe ich alles Wichtige in diesem Video für euch zusammen gefasst.", "link": "https://youtu.be/-cuWOYTwUCg" },
+        { "name": "Ausrüstung", "beschreibung": "DSA Foundry hat eine umfassende Ausrüstungsverwaltung. Viele Funktionen findet ihr in diesem Video.", "link": "https://youtu.be/0PY5asQ8M0g" },
+        { "name": "Items Tauschen", "beschreibung": "In diesem Video zeige ich euch wie ihr als Spieler untereinander oder mit NSCs Items tauschen könnt.", "link": "https://youtu.be/5AJ2mnWkMlE", "date": "29.12.2024" },
+        { "name": "Währungen", "beschreibung": "In diesem Video zeige ich euch wie ihr andere Währungen in Foundry DSA verwendet.", "link": "https://youtu.be/pF5ye53rDCM", "date": "25.01.2025" },
+        { "name": "Aventurischer Kalender", "beschreibung": "In diesem Tutorial zeigt euch Nellkir die neue Kalender-Funktion, die mit v13 für Foundry-DSA dazu gekommen ist.", "link": "https://youtu.be/z10JROpQIYI", "date": "24.10.2025" },
+        { "name": "Dramatis Personae", "beschreibung": "In diesem Tutorial zeigt euch Nellkir die neue Dramatis Personae-Funktion, die mit v13 für Foundry-DSA dazu gekommen ist.", "link": "https://youtu.be/BjcPr-7Szwc", "date": "06.02.2026" }
       ]
     },
     {
       "name": "Spielleiter Tutorials - Expert",
       "videos": [
-        {
-          "name": "Abenteuerpunkte tracken",
-          "beschreibung": "In diesem Video zeige ich euch, wie ihr die Abenteuerpunkte eurer Charaktere in einem separaten Journal tracken könnt. Damit lässt sich sehr gut nachvollziehen wofür ihr eure Punkte ausgegeben habt.",
-          "link": "https://youtu.be/cU_ihu10n9c",
-          "date": "13.09.2024"
-        },
-        {
-          "name": "Auren in Foundry DSA",
-          "beschreibung": "DSA 5 für Foundry hat seit einiger Zeit eine Mechanik für Auren direkt ins System integriert. In diesem Video zeige ich euch wie sie funktionieren.",
-          "link": "https://youtu.be/IE_R_mAlAsw",
-          "date": "17.07.2024"
-        },
-        {
-          "name": "Sicht und Licht",
-          "beschreibung": "Foundry DSA hat neben den Basis Sicht und Licht Funktionen noch ein paar spezielle Tools. Wollt ihr die Dunkelsicht automatisch einrichten, Lichtquellen schnell setzen oder auf der Szene platzieren, all dies ist im System möglich. Da dies nicht unkompliziert ist, schaut euch dazu einmal das Video an.",
-          "link": "https://youtu.be/2WnYh1kpXrU"
-        },
-        {
-          "name": "Trefferzonen - Kompendium 1",
-          "beschreibung": "In diesem Video zeige ich euch wie ihr die Trefferzonen in Foundry DSA verwendet. Wichtig ist, dass ihr dafür das DSA Premium Modul Kompendium 1 benötigt.",
-          "link": "https://youtu.be/CZJMhGR2lQ4"
-        },
-        {
-          "name": "Wildwuchs und Pflanzensuche",
-          "beschreibung": "Mit dem Herbarium bekommt ihr viele Pflanzen die ihr im Wildwuchs Generator und der Pflanzensuche nutzen könnt. Diese Premium Modul exklusive Funktion zeige ich euch in diesem Video.",
-          "link": "https://youtu.be/DBoSix-E76o"
-        },
-        {
-          "name": "Animationen mit Automated Animations",
-          "beschreibung": "Auch für das DSA System funktioniert das Modul Automated Animations. Wollt ihr also Pfeile direkt auf eure Gegner schießen oder sehen wie der Ignifaxius übers Schlachtfeld fliegt, dann schaut einmal in  dieses Video.",
-          "link": "https://youtu.be/ltWiQ4EsFJA"
-        },
-        {
-          "name": "Migration von Items",
-          "beschreibung": "Die Migration dient dazu, bei Modulupdates die neusten Talente, Zauber, Liturgien, Sonderfertigkeiten, Vor- und Nachteile aus den Kompendien zu ziehen. Macht vorher n kleines Backup vom Charakter und startet die Migration.",
-          "link": "https://youtu.be/y7ywF_BJrxc"
-        },
-        {
-          "name": "Funktion Sichtbeschränkungen",
-          "beschreibung": "Um Sichtbeschränkungen wie Dunkelheit abbilden zu können, hat Foundry DSA eine Option in den Sichteinstellungen des Meister Menüs. Schaut euch hier an wie das ganze funktioniert.",
-          "link": "https://youtu.be/jvxR1BxlmRY"
-        },
-        {
-          "name": "Neue Makros",
-          "beschreibung": "Foundry DSA hat einiges an Makros in den Modulen. Ein paar davon, vor allem aus dem Premium Modul des Grundregelwerks, stelle ich euch hier vor.",
-          "link": "https://youtu.be/3oEDYjJGHhs"
-        },
-        {
-          "name": "Effektfeld und Statuseffekte",
-          "beschreibung": "Effekte und Statuseffekte sind ein kompliziertes aber mächtiges Thema um Foundry DSA noch weiter zu automatisieren. Wollt ihr eigene Items anlegen oder bestehende erweitern, dann könnt ihr mit diesem System viel erreichen. In diesem Video erkläre ich euch ein paar Basics dazu.",
-          "link": "https://youtu.be/o7YfkD_dap4"
-        },
-        {  
-        "name": "Info Item",
-        "beschreibung": "Um Informationen zu Pflanzen, Kreaturen, Orten, Geschichte und vielen mehr mit euren Spielern zu teilen könnt ihr in Foundry DSA das Info Item nutzen. Mit diesem lassen sich Informationen nach einer erfolgreichen Probe passend zur Qualitätsstufe an die Spieler weiter geben.",
-        "link": "https://youtu.be/G9Lq0g8gcCo",
-        "date": "19.05.2023"
-        },
-        {  
-        "name": "Weltenzerstörer",
-        "beschreibung": "Das Weltenzerstörer Tool von Foundry DSA bietet Akteur Backup und Migrationsfunktionen. Damit könnt ihr eure Akteure sichern und die neusten Funktionen aus den Modulupdates migrieren.",
-        "link": "https://youtu.be/6jDq5Wdx85Y",
-        "date": "07.10.2024"
-        }
+        { "name": "Abenteuerpunkte tracken", "beschreibung": "In diesem Video zeige ich euch, wie ihr die Abenteuerpunkte eurer Charaktere in einem separaten Journal tracken könnt. Damit lässt sich sehr gut nachvollziehen wofür ihr eure Punkte ausgegeben habt.", "link": "https://youtu.be/cU_ihu10n9c", "date": "13.09.2024" },
+        { "name": "Auren in Foundry DSA", "beschreibung": "DSA 5 für Foundry hat seit einiger Zeit eine Mechanik für Auren direkt ins System integriert. In diesem Video zeige ich euch wie sie funktionieren.", "link": "https://youtu.be/IE_R_mAlAsw", "date": "17.07.2024" },
+        { "name": "Sicht und Licht", "beschreibung": "Foundry DSA hat neben den Basis Sicht und Licht Funktionen noch ein paar spezielle Tools. Wollt ihr die Dunkelsicht automatisch einrichten, Lichtquellen schnell setzen oder auf der Szene platzieren, all dies ist im System möglich. Da dies nicht unkompliziert ist, schaut euch dazu einmal das Video an.", "link": "https://youtu.be/2WnYh1kpXrU" },
+        { "name": "Trefferzonen - Kompendium 1", "beschreibung": "In diesem Video zeige ich euch wie ihr die Trefferzonen in Foundry DSA verwendet. Wichtig ist, dass ihr dafür das DSA Premium Modul Kompendium 1 benötigt.", "link": "https://youtu.be/CZJMhGR2lQ4" },
+        { "name": "Wildwuchs und Pflanzensuche", "beschreibung": "Mit dem Herbarium bekommt ihr viele Pflanzen die ihr im Wildwuchs Generator und der Pflanzensuche nutzen könnt. Diese Premium Modul exklusive Funktion zeige ich euch in diesem Video.", "link": "https://youtu.be/DBoSix-E76o" },
+        { "name": "Animationen mit Automated Animations", "beschreibung": "Auch für das DSA System funktioniert das Modul Automated Animations. Wollt ihr also Pfeile direkt auf eure Gegner schießen oder sehen wie der Ignifaxius übers Schlachtfeld fliegt, dann schaut einmal in dieses Video.", "link": "https://youtu.be/ltWiQ4EsFJA" },
+        { "name": "Migration von Items", "beschreibung": "Die Migration dient dazu, bei Modulupdates die neusten Talente, Zauber, Liturgien, Sonderfertigkeiten, Vor- und Nachteile aus den Kompendien zu ziehen. Macht vorher n kleines Backup vom Charakter und startet die Migration.", "link": "https://youtu.be/y7ywF_BJrxc" },
+        { "name": "Funktion Sichtbeschränkungen", "beschreibung": "Um Sichtbeschränkungen wie Dunkelheit abbilden zu können, hat Foundry DSA eine Option in den Sichteinstellungen des Meister Menüs. Schaut euch hier an wie das ganze funktioniert.", "link": "https://youtu.be/jvxR1BxlmRY" },
+        { "name": "Neue Makros", "beschreibung": "Foundry DSA hat einiges an Makros in den Modulen. Ein paar davon, vor allem aus dem Premium Modul des Grundregelwerks, stelle ich euch hier vor.", "link": "https://youtu.be/3oEDYjJGHhs" },
+        { "name": "Effektfeld und Statuseffekte", "beschreibung": "Effekte und Statuseffekte sind ein kompliziertes aber mächtiges Thema um Foundry DSA noch weiter zu automatisieren. Wollt ihr eigene Items anlegen oder bestehende erweitern, dann könnt ihr mit diesem System viel erreichen. In diesem Video erkläre ich euch ein paar Basics dazu.", "link": "https://youtu.be/o7YfkD_dap4" },
+        { "name": "Info Item", "beschreibung": "Um Informationen zu Pflanzen, Kreaturen, Orten, Geschichte und vielen mehr mit euren Spielern zu teilen könnt ihr in Foundry DSA das Info Item nutzen. Mit diesem lassen sich Informationen nach einer erfolgreichen Probe passend zur Qualitätsstufe an die Spieler weiter geben.", "link": "https://youtu.be/G9Lq0g8gcCo", "date": "19.05.2023" },
+        { "name": "Weltenzerstörer", "beschreibung": "Das Weltenzerstörer Tool von Foundry DSA bietet Akteur Backup und Migrationsfunktionen. Damit könnt ihr eure Akteure sichern und die neusten Funktionen aus den Modulupdates migrieren.", "link": "https://youtu.be/6jDq5Wdx85Y", "date": "07.10.2024" },
+        { "name": "Reiten", "beschreibung": "In diesem Video zeige ich euch, wie ihr Reittiere in Foundry DSA nutzen könnt.", "link": "https://youtu.be/Wu-yKvhLjCM", "date": "11.10.2024" },
+        { "name": "Schwärme", "beschreibung": "In diesem Video zeige ich euch wie ihr Schwärme mit der Schwarm Funktion von Foundry DSA verwendet.", "link": "https://youtu.be/5QKX1fkhOPo", "date": "04.01.2025" },
+        { "name": "Widrige Umstände", "beschreibung": "In diesem Video zeige ich euch wie ihr die Widrigen Umstände in Foundry DSA verwendet.", "link": "https://youtu.be/X3FA1dCaS8g", "date": "11.04.2025" }
       ]
     },
     {
       "name": "Vorstellung DSA Module - Regelwerke",
       "videos": [
-        {
-          "name": "Grundregelwerk",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Grundregelwerk",
-          "link": "https://youtu.be/jJqaxPPibHg"
-        },
-        {
-          "name": "Aventurisches Kompendium 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Kompendium 1",
-          "link": "https://youtu.be/KO9ET7NbC8g"
-        },
-        {
-          "name": "Aventurisches Kompendium 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Kompendium 2",
-          "link": "https://youtu.be/d7vimDJtje8"
-        },
-        {
-          "name": "Aventurisches Götterwirken 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Götterwirken 1",
-          "link": "https://youtu.be/iG8_u87KOkw"
-        },
-        {
-          "name": "Aventurisches Götterwirken 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Vorstellung des DSA Regelwerk Moduls",
-          "link": "https://youtu.be/Q7oQ1GBF8sA"
-        },
-        {
-          "name": "Aventurische Magie 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Magie 1",
-          "link": "https://youtu.be/u36H7_SoPFY"
-        },
-        {
-          "name": "Aventurische Magie 3",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventursiche Magie 3",
-          "link": "https://youtu.be/SDyWgjBL70M"
-        },
-        {
-          "name": "Aventurisches Bestiarium 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Bestiarium 1",
-          "link": "https://youtu.be/DiYpdK83ZNI"
-        },
-        {
-          "name": "Aventurisches Bestiarium 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Bestiarium 2",
-          "link": "https://youtu.be/PR-6DIjmxKY"
-        },
-        {
-          "name": "Aventurisches Pandämonium 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Pandämonium 1",
-          "link": "https://youtu.be/EMO8H9e5bLs"
-        },
-        {
-          "name": "Aventurisches Pandämonium 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Pandämonium 2",
-          "link": "https://youtu.be/gcmkeAkiqtk"
-        },
-        {
-          "name": "Brut der Niederhöllen",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Brut der Niederhöllen",
-          "link": "https://youtu.be/gcmkeAkiqtk",
-          "date": "22.07.2024"
-        },
-        {
-          "name": "Aventurische Tiergefährten",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Tiergefährten",
-          "link": "https://youtu.be/P0_Q5ImS9Oc"
-        },
-        {
-          "name": "Aventurisches Herbarium",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium",
-          "link": "https://youtu.be/NbKwO9XMHB8"
-        },
-        {
-          "name": "Aventurisches Herbarium 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium 2",
-          "link": "https://youtu.be/Y67f56_K0UA",
-          "date": "16.06.2023"
-        },
-        {
-          "name": "Aventurische Rüstkammer 1",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Rüstkammer 1",
-          "link": "https://youtu.be/YZALcMZ0JoM"
-        },
-        {
-          "name": "Aventurische Rüstkammer 2",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Rüstkammer 2",
-          "link": "https://youtu.be/tw0U3rb0nNY"
-        },
-        {
-          "name": "Aventurisches Nekromanthäum",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Nekromanthäum",
-          "link": "https://youtu.be/mvw4fUiSkro"
-        },
-        {
-          "name": "Aventurisches Transmutarium",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Transmutarium",
-          "link": "https://youtu.be/xAaaZurISaw"
-        },
-        {
-          "name": "Aventurisches Elementarium",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Elementarium",
-          "link": "https://youtu.be/3cIyvQzI230"
-        },
-        {
-          "name": "Orks - Hauer und schwarzer Pelz",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Orks - Hauer und schwarzer Pelz",
-          "link": "https://youtu.be/KHyMaPnbPXU"
-        },
-        {
-          "name": "Schuppenkleid & lange Zunge - Achaz",
-          "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Schuppenkleid & lange Zunge - Achaz",
-          "link": "https://youtu.be/Qmax0Y_Abv8",
-          "date": "14.09.2023"
-        }
+        { "name": "Grundregelwerk", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Grundregelwerk", "link": "https://youtu.be/jJqaxPPibHg" },
+        { "name": "Aventurisches Kompendium 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Kompendium 1", "link": "https://youtu.be/KO9ET7NbC8g" },
+        { "name": "Aventurisches Kompendium 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Kompendium 2", "link": "https://youtu.be/d7vimDJtje8" },
+        { "name": "Aventurisches Götterwirken 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Götterwirken 1", "link": "https://youtu.be/iG8_u87KOkw" },
+        { "name": "Aventurisches Götterwirken 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Vorstellung des DSA Regelwerk Moduls", "link": "https://youtu.be/Q7oQ1GBF8sA" },
+        { "name": "Aventurische Magie 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Magie 1", "link": "https://youtu.be/u36H7_SoPFY" },
+        { "name": "Aventurische Magie 3", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventursiche Magie 3", "link": "https://youtu.be/SDyWgjBL70M" },
+        { "name": "Aventurisches Bestiarium 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Bestiarium 1", "link": "https://youtu.be/DiYpdK83ZNI" },
+        { "name": "Aventurisches Bestiarium 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Bestiarium 2", "link": "https://youtu.be/PR-6DIjmxKY" },
+        { "name": "Aventurisches Pandämonium 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Pandämonium 1", "link": "https://youtu.be/EMO8H9e5bLs" },
+        { "name": "Aventurisches Pandämonium 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Pandämonium 2", "link": "https://youtu.be/gcmkeAkiqtk" },
+        { "name": "Brut der Niederhöllen", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Brut der Niederhöllen", "link": "https://youtu.be/M-8FzTsM0Bs", "date": "22.07.2024" },
+        { "name": "Aventurische Tiergefährten", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Tiergefährten", "link": "https://youtu.be/P0_Q5ImS9Oc" },
+        { "name": "Aventurisches Herbarium", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium", "link": "https://youtu.be/NbKwO9XMHB8" },
+        { "name": "Aventurisches Herbarium 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Herbarium 2", "link": "https://youtu.be/Y67f56_K0UA", "date": "16.06.2023" },
+        { "name": "Aventurische Rüstkammer 1", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Rüstkammer 1", "link": "https://youtu.be/YZALcMZ0JoM" },
+        { "name": "Aventurische Rüstkammer 2", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurische Rüstkammer 2", "link": "https://youtu.be/tw0U3rb0nNY" },
+        { "name": "Aventurisches Nekromanthäum", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Nekromanthäum", "link": "https://youtu.be/mvw4fUiSkro" },
+        { "name": "Aventurisches Transmutarium", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Transmutarium", "link": "https://youtu.be/xAaaZurISaw" },
+        { "name": "Aventurisches Elementarium", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Aventurisches Elementarium", "link": "https://youtu.be/3cIyvQzI230" },
+        { "name": "Orks - Hauer und schwarzer Pelz", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Orks - Hauer und schwarzer Pelz", "link": "https://youtu.be/KHyMaPnbPXU" },
+        { "name": "Schuppenkleid & lange Zunge - Achaz", "beschreibung": "Vorstellung des DSA Regelwerk Moduls - Schuppenkleid & lange Zunge - Achaz", "link": "https://youtu.be/Qmax0Y_Abv8", "date": "14.09.2023" },
+        { "name": "Aventurisches Animatorium", "beschreibung": "In diesem Modul findet ihr alles zu Automaten, Golems und dazugehörige Zauber etc. Obendrein kommt auch die Funktion der Homunculus-Erschaffung einher.", "link": "https://youtu.be/XKyLnG1wdm0", "date": "13.12.2024" },
+        { "name": "Körperlose Schrecken", "beschreibung": "Dieses Modul bringt alle Arten von Geister als Akteure auf den Bildschirm. Zusätzlich wird das Beschwörungsfenster um die Kategorie Geister erweitert. Außerdem gibt es noch zahlreiche stimmungsvoll gruselige Szenen mit dazugehörigen Szenarios.", "link": "https://youtu.be/IH4UYM7Vr7o", "date": "26.09.2025" },
+        { "name": "Geschöpfe der Anderswelt", "beschreibung": "Feenforscher aufgepasst! Mit diesem DSA-Modul entführt euch Nellkir in die Anderswelt und zeigt euch alles Wissenswertes zu Feengeschöpfen.", "link": "https://youtu.be/aeaqgNjeHak", "date": "20.02.2026" },
+        { "name": "Magna Carta Aventurica", "beschreibung": "Die Magna Carta Aventurica ist ein Foundry DSA exclusives Modul welches euch eine Map mit vielen tollen Funktionen bringt. Ihr habt Orte, Regionen, Flüsse und Gewässer mit vielen Informationen die ihr auf Knopfdruck aufrufen könnt. Außerdem befindet sich in dem Modul ein Routenplaner und eine Wettergenerierung.", "link": "https://youtu.be/qMUKF-xY-1w", "date": "19.12.2025" }
       ]
     },
     {
       "name": "Vorstellung DSA Module - Abenteuer (SPOILER!)",
       "videos": [
-        {
-          "name": "Offenbarung des Himmels",
-          "beschreibung": "Offenbarung des Himmels ist ein sehr frühes DSA 5 Abenteuer und perfekt für den Einstieg in DSA und Foundry geeignet. Auch dieses Modul stelle ich im Video vor.",
-          "link": "https://youtu.be/N8HwwqCdGCo",
-          "date": "16.06.2023"
-        },
-        {
-          "name": "Hexenreigen",
-          "beschreibung": "Das Heldenwerk Hexenreigen ist für DSA Foundry erschienen und es ist frei verfügbar für alle. Was euch in dem Modul erwartet, stelle ich euch in meinem Video vor.",
-          "link": "https://youtu.be/qdmCNRlVqL4",
-          "date": "28.04.2023"
-        },
-        {
-          "name": "Rabenkrieg Howto mit Huepfklotz",
-          "beschreibung": "Diesmal darf ich euch ein Video präsentieren ich dem ich keine Rolle spiele, aber Foundry DSA. Huepfklotz hat sich ans Mikro gesetzt und präsentiert euch ein Rabenkrieg Howto",
-          "link": "https://youtu.be/hMYbomT1bhE"
-        },
-        {
-          "name": "Klingen der Nacht",
-          "beschreibung": "Vorstellung der Abenteuer Moduls Klingen der Nacht",
-          "link": "https://youtu.be/VYwbS2gMTJE"
-        },
-        {
-          "name": "Verhandlungskunst und Friedensschwur",
-          "beschreibung": "Vorstellung der Abenteuer Anthologie Verhandlungskunst und Friedensschwur",
-          "link": "https://youtu.be/CaSKRBaWyxI"
-        },
-        {
-          "name": "Rabenkrieg 1 - Die Zähne des Kaimans",
-          "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 1 - Die Zähne des Kaimans",
-          "link": "https://youtu.be/26vUX5n8QmE"
-        },
-        {
-          "name": "Rabenkrieg 1 Nachtrag",
-          "beschreibung": "Nachtrag zum Kampagnen Moduls - Rabenkrieg 1 - Die Zähne des Kaimans",
-          "link": "https://youtu.be/SRZijKUVNw0"
-        },
-        {
-          "name": "Rabenkrieg 2 - Der Biss der Spinne",
-          "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 2 - Der Biss der Spinne",
-          "link": "https://youtu.be/uehY1OxqR2U"
-        },
-        {
-          "name": "Rabenkrieg 3 - Der Sturz des Adlers",
-          "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 3 - Der Sturz des Adlers",
-          "link": "https://youtu.be/MzicDL6dY90"
-        },
-        {
-          "name": "Rabenkrieg 4 - Die Krallen der Löwin",
-          "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 4 - Die Krallen der Löwin",
-          "link": "https://youtu.be/JxzzJ7Zf89E",
-          "date": "09.08.2024"
-        },
-        {
-          "name": "Labyrinth der Intrigen",
-          "beschreibung": "Vorstellung des Abenteuer Moduls - Labyrinth der Intrigen",
-          "link": "https://youtu.be/Mmewcf2_M0c"
-        }
+        { "name": "Offenbarung des Himmels", "beschreibung": "Offenbarung des Himmels ist ein sehr frühes DSA 5 Abenteuer und perfekt für den Einstieg in DSA und Foundry geeignet. Auch dieses Modul stelle ich im Video vor.", "link": "https://youtu.be/N8HwwqCdGCo", "date": "16.06.2023" },
+        { "name": "Hexenreigen", "beschreibung": "Das Heldenwerk Hexenreigen ist für DSA Foundry erschienen und es ist frei verfügbar für alle. Was euch in dem Modul erwartet, stelle ich euch in meinem Video vor.", "link": "https://youtu.be/qdmCNRlVqL4", "date": "28.04.2023" },
+        { "name": "Rabenkrieg Howto mit Huepfklotz", "beschreibung": "Diesmal darf ich euch ein Video präsentieren ich dem ich keine Rolle spiele, aber Foundry DSA. Huepfklotz hat sich ans Mikro gesetzt und präsentiert euch ein Rabenkrieg Howto", "link": "https://youtu.be/hMYbomT1bhE" },
+        { "name": "Klingen der Nacht", "beschreibung": "Vorstellung der Abenteuer Moduls Klingen der Nacht", "link": "https://youtu.be/VYwbS2gMTJE" },
+        { "name": "Verhandlungskunst und Friedensschwur", "beschreibung": "Vorstellung der Abenteuer Anthologie Verhandlungskunst und Friedensschwur", "link": "https://youtu.be/CaSKRBaWyxI" },
+        { "name": "Rabenkrieg 1 - Die Zähne des Kaimans", "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 1 - Die Zähne des Kaimans", "link": "https://youtu.be/26vUX5n8QmE" },
+        { "name": "Rabenkrieg 1 Nachtrag", "beschreibung": "Nachtrag zum Kampagnen Moduls - Rabenkrieg 1 - Die Zähne des Kaimans", "link": "https://youtu.be/SRZijKUVNw0" },
+        { "name": "Rabenkrieg 2 - Der Biss der Spinne", "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 2 - Der Biss der Spinne", "link": "https://youtu.be/uehY1OxqR2U" },
+        { "name": "Rabenkrieg 3 - Der Sturz des Adlers", "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 3 - Der Sturz des Adlers", "link": "https://youtu.be/MzicDL6dY90" },
+        { "name": "Rabenkrieg 4 - Die Krallen der Löwin", "beschreibung": "Vorstellung des Kampagnen Moduls - Rabenkrieg 4 - Die Krallen der Löwin", "link": "https://youtu.be/JxzzJ7Zf89E", "date": "09.08.2024" },
+        { "name": "Labyrinth der Intrigen", "beschreibung": "Vorstellung des Abenteuer Moduls - Labyrinth der Intrigen", "link": "https://youtu.be/Mmewcf2_M0c" },
+        { "name": "Autoren-Talk mit Christoph und Chistian (Achtung Spoiler) - Labyrinth der Intrigen", "beschreibung": "In diesem Video hab ich mir die beiden Autoren (Christoph Traut und Christian Nehling) vom DSA 5 Abenteuer Labyrinth der Intrigen geschnappt und mit ihnen über ihr Werk, sowie die Foundry Umsetzung gesprochen.", "link": "https://youtu.be/VHsGeS16UUE", "date": "17.12.2021" },
+        { "name": "Verborgen in der Tiefe - Foundry DSA [Nellkirs Vorstellung]", "beschreibung": "In diesem Video entführt euch Nellkir tief unter die Erdoberfläche und zeigt euch die Mysterien und Wunder dieses DSA Moduls.", "link": "https://youtu.be/0WP2a_owqGU", "date": "13.03.2026" },
+        { "name": "Heldenwerk – Mittsommerrache", "beschreibung": "Dieses Heldenwerk führt eure Gruppe nach Thorwal. Schaut rein, was das Begleitwerk zu Gestade des Gottwals euch alles zu bieten hat. Achtung, dieses Video spoilert das komplette Abenteuer!", "link": "https://youtu.be/MUFVHM6V1pE", "date": "19.07.2021" },
+        { "name": "Verhandlungskunst und Friedensschwur", "beschreibung": "In diesem Video spricht Nellkir mit VTTom, Yendor und Christian Nehling über die Foundry DSA Abenteueranthologie Verhandlungskunst und Friedensschwur.", "link": "https://youtu.be/g8jmye9Dp0M", "date": "21.10.2022" },
+        { "name": "Rabenkrieg 5 – Der Preis des Greifen", "beschreibung": "Der fünfte Teil der Kampagne ist für Foundry DSA zu haben. Nellkir zeigt euch, was da alles drin steckt.", "link": "https://youtu.be/r5vjuwZAOd4", "date": "23.08.2025" },
+        { "name": "Der Wolfsfrost", "beschreibung": "Paavi, die Nivesenlande und das eherne Schwert am nördlichen Rand Aventuriens ist nicht nur Heimat für hartgesottenste Menschen und Nivesen, sondern auch für gefährliche Kreaturen wie Nachtalben, Vampire und Werwölfe. Nellkir zeigt euch, was alles in dem Regionalspielhilfemodul „Der Wolfsfrost“ drin steckt.", "link": "https://youtu.be/MOjbbNho1mw", "date": "23.01.2026" },
+        { "name": "Witch of Shadowwater - Foundry DSA [Tom's Introduction]", "beschreibung": "In diesem Video stelle ich euch das DSA 5 Modul Hexe vom Schattenwasser für Foundry VTT vor. Ich zeige euch wie ihr das Modul vorbereitet und was in dem Modul alles enthalten ist.", "link": "https://youtu.be/S8FNdV0VpSY", "date": "17.04.2026" },
+        { "name": "Banner der Treue", "beschreibung": "In diesem Video stelle ich euch das Foundry DSA Modul von Banner der Treue vor. Ihr bekommt neben dem Journal, neuen Szenen, ausgearbeiteten Akteuren auch ein Macro, welches euch dabei hilft die Informationen die die Spieler bekommen können gut zu tracken und die Ermittlungsstufe festzuhalten.", "link": "https://youtu.be/c6-OfiB1z58", "date": "08.12.2023" }
       ]
     },
     {
       "name": "Vorstellung DSA Module - Sonstige",
       "videos": [
-        {
-          "name": "DSA5 Optolith Connector",
-          "beschreibung": "Durch den offiziell vom System Entwickler erstellten Optolith Connector, lassen sich Charaktere aus dem Optolithen nahtlos zu Foundry importieren. Einzige Vorrausetzung ist, dass die jeweiligen Module aktiviert sind, aus denen die Items des Charakters importiert werden sollen. Wie das ganze funktioniert, zeige ich euch in diesem Video.",
-          "link": "https://youtu.be/ZDyKZpKVoZQ",
-          "date": "12.07.2024"
-        },
-        {
-          "name": "Kaiser Retos Waffenkammer",
-          "beschreibung": "Kaiser Retos Waffenkammer ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
-          "link": "https://youtu.be/sfvZ45BgEvs",
-          "date": "15.03.2024"
-        },
-        {
-          "name": "Das Dornenreich",
-          "beschreibung": "Die Dornenreich RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.",
-          "link": "https://youtu.be/l6zgE88nXT8",
-          "date": "11.03.2024"
-        },
-        {
-          "name": "Winterwacht",
-          "beschreibung": "Mit der Winterwacht RSH ist die Region rund ums Bornland beschrieben. In diesem Modul findet ihr alles was ihr braucht um eine Kampagne in der Region spielen zu können.",
-          "link": "https://youtu.be/psx6IGv1d_k",
-          "date": "01.03.2024"
-        },
-        {
-          "name": "Havena - Versunkene Geheimnisse",
-          "beschreibung": "Havena ist die erste Stadtspielhilfe für DSA 5 und jetzt auch für Foundry DSA verfügbar. In diesem Modul findet ihr alles was ihr für Abenteuer in der Stadt benötigt. Was alles im Modul enthalten ist, zeige ich euch in meinem Video.",
-          "link": "https://youtu.be/mU_r5nKiPSA",
-          "date": "10.11.2023"
-        },
-        {
-          "name": "Dampfende Dschungel",
-          "beschreibung": "Die Dampfenden Dschungel enthalten den tiefen Süden und die Waldinseln Aventuriens. Auch hierzu habe ich ein Video erstellt mit dem was ihr durch den Kauf des Moduls erhaltet.",
-          "link": "https://youtu.be/9Soj_OsmJDU",
-          "date": "23.09.2023"
-        },
-        {
-          "name": "Das Wüstenreich",
-          "beschreibung": "Die Regionalspielhilfe zum Wüstenreich beschreibt die Wüste Khom und Thalusien. Auch hier sind viele Elemente aus den Büchern umgesetzt und in meinem Video zeige ich euch was alles enthalten ist.",
-          "link": "https://youtu.be/9U9qgTxJmjo",
-          "date": "15.09.2023"
-        },
-        {
-          "name": "Die Streitenden Königreiche",
-          "beschreibung": "Die Regionalspielhilfe der Streitenden Königreiche beschreibt die Regionen Nostria und Andergast. Diese wurde jetzt für Foundry DSA umgesetzt und ist als Modul verfügbar. Was euch in dem Modul erwartet, seht ihr in meinem Video.",
-          "link": "https://youtu.be/R6b5VoQYAd0",
-          "date": "15.09.2023"
-        },
-        {
-          "name": "System und Introduction Adventure",
-          "beschreibung": "Vorstellung des DSA Systems und Introduction Adventures",
-          "link": "https://youtu.be/9SL5enuRJDs"
-        },
-        {
-          "name": "Masters Workshop",
-          "beschreibung": "Vorstellung des DSA Moduls - Masters Workshop",
-          "link": "https://youtu.be/yoMCAnTJXdI"
-        },
-        {
-          "name": "Sonnenküste",
-          "beschreibung": "Vorstellung des DSA Regionalspielhilfen Moduls - Sonnenküste",
-          "link": "https://youtu.be/-rx4cn3sfMw"
-        },
-        {
-          "name": "Aventurische Tavernen",
-          "beschreibung": "Vorstellung des DSA Moduls - Aventurische Tavernen",
-          "link": "https://youtu.be/no5aK7Zp3bs"
-        }
+        { "name": "DSA5 Optolith Connector", "beschreibung": "Durch den offiziell vom System Entwickler erstellten Optolith Connector, lassen sich Charaktere aus dem Optolithen nahtlos zu Foundry importieren. Einzige Vorrausetzung ist, dass die jeweiligen Module aktiviert sind, aus denen die Items des Charakters importiert werden sollen. Wie das ganze funktioniert, zeige ich euch in diesem Video.", "link": "https://youtu.be/ZDyKZpKVoZQ", "date": "12.07.2024" },
+        { "name": "Kaiser Retos Waffenkammer", "beschreibung": "Kaiser Retos Waffenkammer ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.", "link": "https://youtu.be/sfvZ45BgEvs", "date": "15.03.2024" },
+        { "name": "Das Dornenreich", "beschreibung": "Die Dornenreich RSH ist für Foundry VTT verfügbar und ich zeige euch in diesem Video was euch in dem Modul alles erwartet.", "link": "https://youtu.be/l6zgE88nXT8", "date": "11.03.2024" },
+        { "name": "Winterwacht", "beschreibung": "Mit der Winterwacht RSH ist die Region rund ums Bornland beschrieben. In diesem Modul findet ihr alles was ihr braucht um eine Kampagne in der Region spielen zu können.", "link": "https://youtu.be/psx6IGv1d_k", "date": "01.03.2024" },
+        { "name": "Havena - Versunkene Geheimnisse", "beschreibung": "Havena ist die erste Stadtspielhilfe für DSA 5 und jetzt auch für Foundry DSA verfügbar. In diesem Modul findet ihr alles was ihr für Abenteuer in der Stadt benötigt. Was alles im Modul enthalten ist, zeige ich euch in meinem Video.", "link": "https://youtu.be/mU_r5nKiPSA", "date": "10.11.2023" },
+        { "name": "Dampfende Dschungel", "beschreibung": "Die Dampfenden Dschungel enthalten den tiefen Süden und die Waldinseln Aventuriens. Auch hierzu habe ich ein Video erstellt mit dem was ihr durch den Kauf des Moduls erhaltet.", "link": "https://youtu.be/9Soj_OsmJDU", "date": "23.09.2023" },
+        { "name": "Das Wüstenreich", "beschreibung": "Die Regionalspielhilfe zum Wüstenreich beschreibt die Wüste Khom und Thalusien. Auch hier sind viele Elemente aus den Büchern umgesetzt und in meinem Video zeige ich euch was alles enthalten ist.", "link": "https://youtu.be/9U9qgTxJmjo", "date": "15.09.2023" },
+        { "name": "Die Streitenden Königreiche", "beschreibung": "Die Regionalspielhilfe der Streitenden Königreiche beschreibt die Regionen Nostria und Andergast. Diese wurde jetzt für Foundry DSA umgesetzt und ist als Modul verfügbar. Was euch in dem Modul erwartet, seht ihr in meinem Video.", "link": "https://youtu.be/R6b5VoQYAd0", "date": "15.09.2023" },
+        { "name": "System und Introduction Adventure", "beschreibung": "Vorstellung des DSA Systems und Introduction Adventures", "link": "https://youtu.be/9SL5enuRJDs" },
+        { "name": "Masters Workshop", "beschreibung": "Vorstellung des DSA Moduls - Masters Workshop", "link": "https://youtu.be/yoMCAnTJXdI" },
+        { "name": "Sonnenküste", "beschreibung": "Vorstellung des DSA Regionalspielhilfen Moduls - Sonnenküste", "link": "https://youtu.be/-rx4cn3sfMw" },
+        { "name": "Aventurische Tavernen", "beschreibung": "Vorstellung des DSA Moduls - Aventurische Tavernen", "link": "https://youtu.be/no5aK7Zp3bs" },
+        { "name": "Aventurische Tavernen mit Nellkir - Foundry DSA [Toms Talk]", "beschreibung": "In diesem Video spreche ich mit Nellkir über sein Modul Aventurische Tavernen.", "link": "https://youtu.be/wQzRv40PiqY", "date": "01.08.2022" },
+        { "name": "Die Flusslande - Foundry DSA [Toms Vorstellung]", "beschreibung": "In den zwei mittelreichischen Provinzen Kosch und Nordmarken befinden sich nicht nur die Auen des Großen Flusses, sondern auch mehrere Bergketten, welche Heimat für große Zwergenvölker sind. Mit den Flusslanden ist erneut eine Regionalspielhilfe für Foundry DSA erschienen.", "link": "https://youtu.be/37oIVqc7Erk", "date": "24.05.2024" },
+        { "name": "DSA - Aventurische Bibliothek - Foundry VTT [Toms Vorstellung]", "beschreibung": "In diesem Video stelle ich euch die Aventurische Bibliothek für Foundry DSA 5 vor.", "link": "https://youtu.be/jy6nln1PBnA", "date": "04.11.2024" },
+        { "name": "Studierstube der Gildenmagie", "beschreibung": "Dieses Modul bietet euch nicht nur alle Neuheiten aus dem Rohals-Erben Crowdfunding als Items angelegt. Es kommt auch mit einer liebevoll umgesetzten Szene inkl. Abenteuerszenario einher.", "link": "https://youtu.be/ky72B_VcmUA", "date": "16.12.2022" },
+        { "name": "VTToms Höhle des ewigen Wissens", "beschreibung": "In diesem Video stelle ich euch mein DSA Video Modul vor. Auch wenn es komisch klingt, das Modul ist echt nützlich, denn ihr könnt meine Videos direkt in Foundry anschauen und die dort vorgestellten Dinge ansehen. Außerdem haben eure Spieler schnellen Zugriff auf nützliche Tutorials.", "link": "https://youtu.be/yPlsDth4Nsg", "date": "14.06.2023" },
+        { "name": "Die Gestade des Gottwals", "beschreibung": "Zerklüftete Fjorde und unheimliche Moore und Sümpfe prägen Thorwal und das Gjalskerland, Heimat von schlagkräftigen Seefahrern, sagenumwobenen Tierkriegern und runenwerfenden Zauberern. Mit den Gestaden des Gottwals ist eine weitere Regionalspielhilfe für Foundry DSA erschienen.", "link": "https://youtu.be/8iWpSEHGADU", "date": "16.05.2025" },
+        { "name": "Die Ära des Goldenen Kaisers", "beschreibung": "Diese etwas andere Regionalspielhilfe nimmt uns rund 50 Götterläufe zurück in die Vergangenheit, als alles noch gut unter Kaiser Hal war. Nellkir zeigt euch in diesem Video, was alles in dem Modul enthalten ist.", "link": "https://youtu.be/KhC-JEq4CaE", "date": "19.07.2025" },
+        { "name": "Die Siebenwindküste", "beschreibung": "Diese Regionalspielhilfe führt uns an die windumtoste Siebenwindküste. Albernia und Windhag sind Heimat machtvoller Feenwesen, uralten Adels und unbeugsamer Sippenkrieger.", "link": "https://youtu.be/iPCifywsm3c", "date": "15.11.2025" },
+        { "name": "Die Echsensümpfe", "beschreibung": "Selem und das Reich der Achaz entführt uns in eine andere Welt voll gefährlicher Sümpfe und längst vergessen geglaubter Zivilisationen und Ruinen. Nellkir zeigt euch, was euch alles in diesem DSA-Modul erwartet.", "link": "https://youtu.be/Z0UoHjmTbJE", "date": "07.11.2025" }
       ]
     },
     {
       "name": "Vorstellung DSA Community",
       "videos": [
-        {
-          "name": "Scriptorium Produkte (bis Juli 2023)",
-          "beschreibung": "in diesem Video stelle ich euch wieder interessante Produkte aus dem Scriptorium vor. Außerdem ist noch eine Karte aus dem Orkenspalter Forum dabei.",
-          "link": "https://youtu.be/CweK57gRzew",
-          "date": "04.08.2023"
-        },
-        {
-          "name": "Ohne Ehre (Spoiler)",
-          "beschreibung": "Das Studio VTT-Bastler ist sehr stolz euch das erste DSA Foundry Modul präsentieren zu dürfen: Ohne Ehre. Bei Ohne Ehre handelt es sich um ein Foundry-exklusives DSA 5 Kurzabenteuer. Es eignet sich sehr gut dafür um als Oneshot an einem Abend gespielt zu werden, es sind aber auch Plothooks enthalten um das Abenteuer danach selbst weiter ausbauen zu können.",
-          "link": "https://youtu.be/6y9cBY7zbfc",
-          "date": "15.07.2023"
-        },
-        {
-          "name": "Skriptorium Produkte (bis April 2023)",
-          "beschreibung": "Vorstellung einiger Module und Produkte aus dem Skriptorium Aventuris - Stand April 2023",
-          "link": "https://youtu.be/7hcCZXq-hWg"
-        },
-        {
-          "name": "Norburg Stadtkartenpaket",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Norburg Stadtkartenpaket",
-          "link": "https://youtu.be/pvZ35-vq03s"
-        },
-        {
-          "name": "Festum Stadtkartenpaket",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Festum Stadtkartenpaket",
-          "link": "https://youtu.be/oGHWAJfN-IE"
-        },
-        {
-          "name": "DSA Drag Ruler Integration",
-          "beschreibung": "Vorstellung des DSA Community Moduls - DSA Drag Ruler Integration",
-          "link": "https://youtu.be/v4Yx148BTyE"
-        },
-        {
-          "name": "Drehatlas Abenteuer: Uralte Bande",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Drehatlas Abenteuer: Uralte Bande",
-          "link": "https://youtu.be/jgFgOtJoQvY"
-        },
-        {
-          "name": "Mord auf Burg Tannfels",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Mord auf Burg Tannfels",
-          "link": "https://youtu.be/7t2rUtQKyHE"
-        },
-        {
-          "name": "Interaktive Aventurien Karte",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Interaktive Aventurien Karte",
-          "link": "https://youtu.be/8wcCoOU-tQs"
-        },
-        {
-          "name": "Optolith to foundry",
-          "beschreibung": "Vorstellung des DSA Community Moduls - Optolith to foundry",
-          "link": "https://youtu.be/SHqkSU1rQoQ"
-        }
+        { "name": "Scriptorium Produkte (bis Juli 2023)", "beschreibung": "in diesem Video stelle ich euch wieder interessante Produkte aus dem Scriptorium vor. Außerdem ist noch eine Karte aus dem Orkenspalter Forum dabei.", "link": "https://youtu.be/CweK57gRzew", "date": "04.08.2023" },
+        { "name": "Ohne Ehre (Spoiler)", "beschreibung": "Das Studio VTT-Bastler ist sehr stolz euch das erste DSA Foundry Modul präsentieren zu dürfen: Ohne Ehre. Bei Ohne Ehre handelt es sich um ein Foundry-exklusives DSA 5 Kurzabenteuer. Es eignet sich sehr gut dafür um als Oneshot an einem Abend gespielt zu werden, es sind aber auch Plothooks enthalten um das Abenteuer danach selbst weiter ausbauen zu können.", "link": "https://youtu.be/6y9cBY7zbfc", "date": "15.07.2023" },
+        { "name": "Skriptorium Produkte (bis April 2023)", "beschreibung": "Vorstellung einiger Module und Produkte aus dem Skriptorium Aventuris - Stand April 2023", "link": "https://youtu.be/7hcCZXq-hWg" },
+        { "name": "Norburg Stadtkartenpaket", "beschreibung": "Vorstellung des DSA Community Moduls - Norburg Stadtkartenpaket", "link": "https://youtu.be/pvZ35-vq03s" },
+        { "name": "Festum Stadtkartenpaket", "beschreibung": "Vorstellung des DSA Community Moduls - Festum Stadtkartenpaket", "link": "https://youtu.be/oGHWAJfN-IE" },
+        { "name": "DSA Drag Ruler Integration", "beschreibung": "Vorstellung des DSA Community Moduls - DSA Drag Ruler Integration", "link": "https://youtu.be/v4Yx148BTyE" },
+        { "name": "Drehatlas Abenteuer: Uralte Bande", "beschreibung": "Vorstellung des DSA Community Moduls - Drehatlas Abenteuer: Uralte Bande", "link": "https://youtu.be/jgFgOtJoQvY" },
+        { "name": "Mord auf Burg Tannfels", "beschreibung": "Vorstellung des DSA Community Moduls - Mord auf Burg Tannfels", "link": "https://youtu.be/7t2rUtQKyHE" },
+        { "name": "Interaktive Aventurien Karte", "beschreibung": "Vorstellung des DSA Community Moduls - Interaktive Aventurien Karte", "link": "https://youtu.be/8wcCoOU-tQs" },
+        { "name": "Optolith to foundry", "beschreibung": "Vorstellung des DSA Community Moduls - Optolith to foundry", "link": "https://youtu.be/SHqkSU1rQoQ" },
+        { "name": "Das Grüne Cape - Foundry DSA [Toms Vorstellung]", "beschreibung": "Wir vom Studio VTT Bastler durften das DSA 4 Abenteuer - Das grüne Cape von Carsten-Dirk Jost für Foundry DSA umsetzen. Dabei haben wir neue Szenen erstellt, wie Grangor oder eine komplette Szene der Sankta Liaiella.", "link": "https://youtu.be/pYgqcP8Zm5Q", "date": "09.06.2025" },
+        { "name": "Das Wesen des Seins - Foundry DSA [Toms Vorstellung]", "beschreibung": "Wir vom Studio VTT Bastler durften das DSA 4 Abenteuer - Das Wesen des Seins von Carsten-Dirk Jost für Foundry DSA umsetzen. Dabei haben wir neue Szenen erstellt, wie Grangor, ein Seegefecht, ein Lager, ein Bürgerhaus und ein Labyrinth mit Observatorium.", "link": "https://youtu.be/L58JVLVfM58", "date": "30.06.2025" }
+      ]
+    },
+    {
+      "name": "DSA5 Foundry Changelogs",
+      "videos": [
+        { "name": "DSA Changelog 8.1 - Foundry VTT [Toms Vorstellung]", "beschreibung": "Ein neues Update für Foundry DSA ist erschienen und bietet neben einigen Bugfixes viele Verbesserungen und neue Features. Unter anderem: Überarbeitung der Spielerapps, mehr Kampfoptionen (darunter Verfolgungsjagden), neuer Akteurtyp Fahrzeuge, magische Analyse mit Info-Items und viele weitere kleine Verbesserungen, die ich euch in meinem Video vorstelle.", "link": "https://youtu.be/j4vEcysUbto", "date": "21.08.2026" },
+        { "name": "DSA Changelog 8.0 - v14 - Foundry VTT [Toms Newsflash]", "beschreibung": "Das DSA Update 8.0 für Foundry Version 14 ist da und bietet neben der Kompatibilität zu v14 einige neue Features: überarbeitete Charaktererschaffung, Beschwörung als verbessertes Core Feature, verbesserte Transaktionen, ein neues Proben-anfordern-Fenster, Auftragsverwaltung, Anpassung der Messchablonen mit Regions, neuer Akteurtyp Gruppe und viele weitere Änderungen.", "link": "https://youtu.be/0YAXhoU2uKg", "date": "22.05.2026" },
+        { "name": "DSA Changelog 7.3 - Foundry VTT [Nellkirs Newsflash]", "beschreibung": "Der nächste DSA Newsflash ist schon ein paar Tage überfällig und dieses Changelog hat wieder einige Verbesserungen im Gepäck. Diesmal wurde das Dramatis Personae System hinzugefügt, außerdem dürft ihr euch über die Verbesserung des Kalenders und weiterer Funktionen freuen.", "link": "https://youtu.be/8uj7DHGnsHQ", "date": "07.10.2025" },
+        { "name": "Changelog 7.2", "beschreibung": "Das nächste DSA Update ist da und hat wieder einige Veränderungen mit im Gepäck. Diesmal dürft ihr euch über die Verbesserung des Kalenders sowie Fallen freuen. Beides und noch einige anderen Verbesserungen stelle ich euch in meinem Video vor.", "link": "https://youtu.be/N2UKIJxPViw", "date": "31.08.2025" },
+        { "name": "Changelog 7.1", "beschreibung": "Das DSA 5 Update 7.1 für Foundry Version 13 ist raus. Neben sehr vielen internen Anpassungen und Fehlerbehebungen beinhaltet das Update auch wieder einige Neuerungen: ein DSA Kalender, automatisches Flankieren, neue UI Elemente, eine verbesserte Bibliothek und vieles mehr.", "link": "https://youtu.be/f1-TRP0oPwk", "date": "27.06.2025" },
+        { "name": "Changelog 6.1.0", "beschreibung": "Das Foundry DSA 5 Update 6.1 ist erschienen und ich gehe mit euch im Video das Changelog durch und zeige euch die wichtigsten Neuerungen. In diesem Patch ist das große Feature die Waffen und Rüstungs Vor- und Nachteile.", "link": "https://youtu.be/80p4YFKgiPM", "date": "25.10.2024" },
+        { "name": "Changelog 6.0.0", "beschreibung": "Seit mitte Juni ist DSA v12 ready mit dem Update 6.0.0. Dieses Update beinhaltet aber noch ein paar neue Features: neue Icons für Monster Attacken, Zauber und Liturgien, Automatisierung von Giften und Gegenständen, getaggte Token für die Werkstatt des Meisters u.v.m.", "link": "https://youtu.be/SQHdE4TLTFg", "date": "05.08.2024" },
+        { "name": "DSA Changelog 5.4 - Foundry VTT [Toms Newsflash]", "beschreibung": "Das neue DSA5 Update ist erschienen und beinhaltet wieder einige neue Funktionen: Game Manual, Auren, Automatisierungen für Gifte, Währungen, diverse Verbesserungen für die Werkstatt des Meisters und viele weitere kleine Verbesserungen.", "link": "https://youtu.be/JOQUJF8DD2w", "date": "17.04.2024" },
+        { "name": "Changelog 5.3", "beschreibung": "Das Update 5.3 ist im Januar für Foundry DSA erschienen und in diesem Video gehe ich für euch das Changelog durch. Einige der neuen Funktionen: die neue Tokenbar 3.0, Verbesserung des Journal Browsers, AP Logging für Spielercharaktere.", "link": "https://youtu.be/2S1OfV_ev0c", "date": "16.02.2024" },
+        { "name": "Changelog 5.2", "beschreibung": "Das nächste DSA Update ist da und hat wieder einige nette Funktionen im Gepäck: Item Tausch zwischen Spielern, neues Journal Design, Prügeleien u.v.m. Wie immer gehe ich mit euch das komplette Changelog durch.", "link": "https://youtu.be/9WVc9gozjzQ", "date": "16.11.2023" },
+        { "name": "Changelog 5.1", "beschreibung": "Das nächste große Update für Foundry DSA ist da und bringt eine Umsetzung der DSA 5 Schwarmregeln, eine neue Einstellung zur Berücksichtigung des Lichts bei automatischen Sichtmodifikatoren und die Einbindung der Kodizes in bestehende Module.", "link": "https://youtu.be/ZcQl6EgvgXI", "date": "05.09.2023" },
+        { "name": "Changelog 5.0.1", "beschreibung": "Das Update 5.0.1 für Foundry DSA steht zur Verfügung. Dieses Update ist erst ab Foundry Version 11 nutzbar. Es enthält neue Funktionen wie einen Charaktereditor, Crafting Funktionen, den Stöbern Modus für die Bibliothek und vieles mehr.", "link": "https://youtu.be/EKv23VwQoiY", "date": "25.05.2023" },
+        { "name": "Changelog 4.3", "beschreibung": "Das Changelog 4.3 beinhaltet wieder ein paar Neuerungen die ich euch in diesem Video vorstellen möchte: Meister Tokenbar, Mehrfachangriff, Nacked CSS und viele weitere Änderungen.", "link": "https://youtu.be/D2vQ5KdWJWM", "date": "10.03.2023" },
+        { "name": "Changelog 4.2", "beschreibung": "In diesem Video zeige ich euch was alles in dem Foundry DSA Update 4.2 steckt. Erfahrt alles zum Reiten, den Änderungen bei den Statuseffekten und der neuen Umsetzung von Patzern oder Kritischen Treffern.", "link": "https://youtu.be/G88T18wa45E", "date": "05.01.2023" },
+        { "name": "Changelog 4.1", "beschreibung": "In diesem Video zeige ich euch welche Änderungen der Patch 4.1 mit sich bringt und auf welche kommenden Produkte ihr euch freuen könnt.", "link": "https://youtu.be/P4eDFRaOvfI", "date": "19.09.2022" },
+        { "name": "Changelog 4.0.3", "beschreibung": "In diesem Video zeige ich euch was der Patch 4.0.3 für Foundry DSA, neben der v10 Kompatibilität, noch enthält.", "link": "https://youtu.be/3gBTmEAFjU0", "date": "31.08.2022" },
+        { "name": "Changelog 3.5.0", "beschreibung": "In diesem Video zeige ich euch was alles im DSA Patch 3.5.0 steckt.", "link": "https://youtu.be/fPi1Fs8qej4", "date": "11.07.2022" },
+        { "name": "Changelog 3.4.0", "beschreibung": "In diesem Video zeige ich euch was das Update 3.4.0 für Foundry DSA alles beinhaltet.", "link": "https://youtu.be/JN7u9Mq9ov4", "date": "24.05.2022" },
+        { "name": "Changelog 3.3.0", "beschreibung": "In diesem Video zeige ich euch was das Update 3.3.0 für Foundry DSA alles beinhaltet.", "link": "https://youtu.be/YhzYAGZfLe4", "date": "11.04.2022" },
+        { "name": "Changelog 3.2.0", "beschreibung": "In diesem Video zeige ich euch was das sehr umfangreiche Update 3.2.0 für Foundry DSA alles beinhaltet.", "link": "https://youtu.be/9XppMLPkQKQ", "date": "20.02.2022" },
+        { "name": "Changelog 3.1.0", "beschreibung": "In diesem Video gebe ich euch einen kurzen Überblick über die Änderungen durch das DSA Foundry Update 3.1.0, sowie ein paar Kleinigkeiten aus den vorherigen Updates.", "link": "https://youtu.be/EUTRbOLaS98", "date": "12.01.2022" },
+        { "name": "Changelog 2.5.0", "beschreibung": "In diesem Video gebe ich euch einen kurzen Überblick über die Änderungen durch das DSA Foundry Update 2.5.0.", "link": "https://youtu.be/oy8xgRb8QA0", "date": "07.12.2021" },
+        { "name": "Changelog 2.4.0", "beschreibung": "In diesem Video gebe ich euch einen kurzen Überblick über die Änderungen durch das DSA Foundry Update 2.4.0.", "link": "https://youtu.be/RXJu_srafsg", "date": "14.11.2021" },
+        { "name": "Changelog 2.3.0 (Bonus 2.2.1)", "beschreibung": "In diesem Video gebe ich dir einen kurzen Überblick über die Änderungen durch das DSA Foundry Update 2.3.0 sowie einen kleinen Rückblick auf den Patch 2.2.1.", "link": "https://youtu.be/0ZwDrrhpoWw", "date": "05.10.2021" },
+        { "name": "Changelog 2.2.0", "beschreibung": "In diesem Video gebe ich dir einen kurzen Überblick über die Änderungen durch das DSA Foundry Update 2.2.0.", "link": "https://youtu.be/BEX2AHm3zLM", "date": "30.07.2021" },
+        { "name": "Changelog 2.1.0", "beschreibung": "Ein kurzer Überblick über die Änderungen durch das DSA Foundry Update 2.1.0.", "link": "https://youtu.be/HMP20-hYPMg", "date": "10.07.2021" },
+        { "name": "Changelog 2.0.1", "beschreibung": "Ein kurzer Überblick über die Änderungen durch das DSA Foundry Update 2.0.1.", "link": "https://youtu.be/X4rhQVx23aw", "date": "23.06.2021" }
+      ]
+    },
+    {
+      "name": "Foundry Allgemein",
+      "videos": [
+        { "name": "Geteiltes Kompendium erstellen - Foundry VTT [Toms Tutorial]", "beschreibung": "In diesem Video zeige ich euch wie ihr ein Kompendium Modul erstellt, um dieses mit den Welten in eurem Foundry zu teilen.", "link": "https://youtu.be/erx8Rl9QkKM", "date": "21.09.2021" },
+        { "name": "TOTM Szene mit Lichtern verschönern - Foundry VTT [Nellkirs Tutorial]", "beschreibung": "In diesem Video zeigt euch Nellkir wie ihr auf Theatre of the Mind Szenen mit Lichtern schöne Licht und Bewegungseffekte setzen könnt.", "link": "https://youtu.be/HeqkkQCoKSY", "date": "27.04.2022" },
+        { "name": "Foundry v11 - Foundry VTT [Toms Vorstellung]", "beschreibung": "Foundry V11 ist raus und bietet viele neue Features wie zum Beispiel Compendium Folders, neue Fenster, Tür-Sounds und vieles mehr. Einen Überblick über alle Neuerungen gebe ich euch in diesem Video.", "link": "https://youtu.be/J07Eub0fE7w", "date": "26.05.2023" },
+        { "name": "VTT Desktop Client by theripper93 - Foundry VTT [Toms Vorstellung]", "beschreibung": "Der Modul Entwickler theripper93 ist bekannt durch seine Patreon exclusiven Module wie zum Beispiel sein 3d canvas für Foundry VTT. Jetzt hat er einen VTT Desktop Client für Foundry entwickelt und stellt diesen allen frei zur Verfügung. In diesem Video stelle ich euch den Client einmal vor.", "link": "https://youtu.be/5wO8ckJKKRQ", "date": "23.06.2023" },
+        { "name": "Foundry v12 - Vor dem Update! - Foundry VTT [Toms Tutorial]", "beschreibung": "Was solltet ihr beachten bevor ihr euch an das v12 Update macht? Wie macht ihr am besten ein Backup? Wie prüfe ich ob meine Systeme und Module überhaupt für v12 freigegeben sind? Diese Fragen beantworte ich euch in diesem Video.", "link": "https://youtu.be/7WQ-MBnygEI", "date": "31.05.2024" },
+        { "name": "Abenteuer Modul bauen", "beschreibung": "Dieses Video ist ein Mitschnitt aus einem Workshop den ich in Discord gegeben habe. Zu dem hier behandelten Thema werden noch Tutorials kommen in denen ich etwas strukturierter auf das Thema eingehe.", "link": "https://youtu.be/IHmuz5c8KGM", "date": "02.09.2021" },
+        { "name": "Backup erstellen", "beschreibung": "In diesem Video zeige ich euch wie ihr ein Backup eurer Benutzerdaten anlegt.", "link": "https://youtu.be/PqhPU1uScbk", "date": "14.02.2022" },
+        { "name": "The Forge", "beschreibung": "In diesem Video stelle ich euch den Foundry Hosting Partner: the Forge vor.", "link": "https://youtu.be/rL7mLAtTiZE", "date": "20.05.2022" },
+        { "name": "Vorbereitung auf Foundry v10", "beschreibung": "In diesem Video zeige ich euch, wie ihr euch auf die Foundry Version 10 vorbereiten könnt. Dabei verwende ich das Modul: Module Compatibility Checker.", "link": "https://youtu.be/2pg6XElARdU", "date": "12.08.2022" },
+        { "name": "Karten (v9) plus Bonus Monarch", "beschreibung": "In diesem Video zeige ich euch wie die Karten in Foundry Version 9 funktionieren und gebe anhand des Moduls Monarch einen Ausblick auf das was da vielleicht noch kommt.", "link": "https://youtu.be/-hUuJoByMWo", "date": "21.01.2022" },
+        { "name": "The Forge – Livekit AV Client", "beschreibung": "Ich diesem Video stelle ich euch das Modul LiveKit A/V Client über the Forge vor. Mit dem Worldbuilder Tier habt ihr Zugriff auf diese Audio Video Funktion.", "link": "https://youtu.be/kUA8RUqgqVc", "date": "22.08.2022" },
+        { "name": "v10 das erste Mal starten und Fehler beheben", "beschreibung": "Wenn ihr Foundry auf v10 Updated und das erste Mal startet, kann es zu ein paar Problemen und Fehlern kommen. Dieses Video behandelt ein paar der Stolpersteine in der Umstellung.", "link": "https://youtu.be/b1VvkIWOq1Y", "date": "07.09.2022" },
+        { "name": "NodeJS Installation unter Windows", "beschreibung": "In diesem Video zeige ich euch, wie ihr unter Windows (10) die NodeJS Version von Foundry installiert um 2 Versionen parallel betreiben zu können. Dies ist vor allem bei Tests einer neuen Foundry Version hilfreich.", "link": "https://youtu.be/o1LD7k3o8lg", "date": "09.09.2022" },
+        { "name": "Molten Hosting", "beschreibung": "In diesem Video stelle ich euch den Foundry Hosting Partner: Molten Hosting vor.", "link": "https://youtu.be/HKFzc_ejD6k", "date": "24.01.2022" },
+        { "name": "The Forge – Update auf v10", "beschreibung": "In diesem Video zeige ich das Foundry v10 Update in the Forge.", "link": "https://youtu.be/oQZwO3mmpxE", "date": "10.10.2022" },
+        { "name": "Weblate", "beschreibung": "In diesem Video stelle ich euch die Webseite Weblate von der Foundry HUB Crew vor. Mit ihr könnt ihr bei der Übersetzung der dort verfügbaren Module helfen, ohne euch mit js Dateien oder ähnlichem beschäftigen zu müssen.", "link": "https://youtu.be/uTHXl1rLQLE", "date": "04.11.2022" },
+        { "name": "Player Tutorial - Foundry Basics [Tom's Tutorial]", "beschreibung": "In diesem Video zeige ich euch als Spieler was ihr zu Foundry's Basis Funktionen wissen müsst.", "link": "https://youtu.be/l9CqrGrAZTQ", "date": "09.12.2022" },
+        { "name": "Foundryserver", "beschreibung": "In diesem Video stelle ich euch den Foundry Hosting Partner Foundryserver vor.", "link": "https://youtu.be/gDhnfXZjj2o", "date": "24.12.2022" },
+        { "name": "Abenteuer Modul 1/3 – Modul erstellen", "beschreibung": "In diesem Video zeige ich dir wie du mit Hilfe einer Webseite des Scene Packer Entwicklers ein Modul erstellst, welches als Basis für das Abenteuer Modul dient. Dies ist Teil 1 der Abenteuer Modul Reihe.", "link": "https://youtu.be/K149NGktJko", "date": "24.02.2023" },
+        { "name": "Abenteuer Modul – Teil 2/3 – Inhalte Anlegen", "beschreibung": "In diesem Video gebe ich dir Tipps zum Anlegen von Inhalten die später in das Abenteuer Modul gepackt werden sollen.", "link": "https://youtu.be/g07c5Tr_x0g", "date": "03.03.2023" },
+        { "name": "Abenteuer Modul – Teil 3/3 – Abenteuer Kompendium", "beschreibung": "In diesem Video zeige ich euch wie ihr eure aus Teil 2 angelegten Inhalte in das Modul aus Teil 1 packt und in einer anderen Welt oder auf einem anderen Server verwenden könnt.", "link": "https://youtu.be/0MozWz0IOng", "date": "17.03.2023" },
+        { "name": "Hosting Partner Vergleich", "beschreibung": "In diesem Video vergleiche ich die 3 offiziellen Hosting Partner von Foundry VTT. Ich stelle alle Pläne vor und ziehe dann mein Fazit, nachdem ich alle 3 getestet habe.", "link": "https://youtu.be/3PUxaZ-1SQQ", "date": "22.05.2023" },
+        { "name": "Foundry v11 - Vorbereitung und Installation - Foundry VTT [Toms Tutorial]", "beschreibung": "Foundry v11 steht vor der Tür. Deshalb hab ich in einem Video festgehalten was ihr alles vor der Installation beachten sollten und erinnere mehrfach an das Backup!!! Außerdem zeige ich warum ihr Foundry neu installieren müsst und wie ihr mit v11 bei the Forge umgeht.", "link": "https://youtu.be/7R8TIx3omVk", "date": "24.05.2023" },
+        { "name": "Schattenseiten von Foundry VTT", "beschreibung": "Heute gibt es einmal einen etwas kontroversen Beitrag von mir zu Foundry VTT. Es gibt nämlich nicht nur gute Seiten an Foundry, auch wenn es für meine Anwendungsfälle definitiv das beste VTT ist. Es ist aber nicht das beste VTT für jeden und um dieses Thema geht es in meinem Video.", "link": "https://youtu.be/VjnOVLMdWD8", "date": "12.06.2023" },
+        { "name": "Fehler analysieren und melden", "beschreibung": "In Foundry kann es immer wieder zu Fehlern und Problemen kommen. Um diese an der richtigen Stelle zu melden, ist eine erste Analyse sehr wichtig. Außerdem zeige ich euch wo ihr diese Meldungen dann am besten platziert.", "link": "https://youtu.be/D9kYl1Kx2Ro", "date": "26.04.2024" },
+        { "name": "Welt kopieren", "beschreibung": "Ihr wollt eine Welt kopieren um schnell eine Kampagne oder ein Abenteuer für eine andere Gruppe nutzen zu können? Oder ihr wollt schnell testen welches Modul einen Fehler verursacht, ohne dass ihr in der laufenden Welt alles umstellen müsst? In diesem Video zeige ich euch wie ihr eine Welt kopieren könnt.", "link": "https://youtu.be/FfqLCX1rzv0", "date": "22.11.2024" },
+        { "name": "0. Was ist Foundry VTT?", "beschreibung": "In diesem Video erkläre ich, was genau Foundry VTT ist. Gerade bevor ihr es euch kauft, kann es sinnvoll sein, sich über bestimmte Dinge im klaren zu sein. Dafür ist dieses Video gedacht.", "link": "https://youtu.be/8nt0BKJSt_k", "date": "25.04.2025" },
+        { "name": "VORbereitung Foundry Version 13", "beschreibung": "Foundry v13 Stable ist erschienen. In diesem Video zeige ich euch, was ihr alles beachten solltet, bevor ihr das Update auf v13 startet.", "link": "https://youtu.be/UnECObCtoYc", "date": "09.05.2025" },
+        { "name": "Foundry ohne Game System nutzen - Foundry VTT [Toms Tutorial]", "beschreibung": "In diesem Video zeige ich euch wie ihr Foundry VTT nutzen könnt, auch wenn euer Regelsystem nicht als Game-System in Foundry zur Verfügung steht. Mit dieser Methode lassen sich nahezu alle Pen and Paper Rollenspielen recht gut in Foundry spielen.", "link": "https://youtu.be/to3yk80itek", "date": "26.06.2026" }
+      ]
+    },
+    {
+      "name": "Foundry Basics (v13)",
+      "videos": [
+        { "name": "0. Was ist Foundry VTT?", "beschreibung": "In diesem Video erkläre ich, was genau Foundry VTT ist. Gerade bevor ihr es euch kauft, kann es sinnvoll sein, sich über bestimmte Dinge im klaren zu sein. Dafür ist dieses Video gedacht.", "link": "https://youtu.be/8nt0BKJSt_k", "date": "25.04.2025" },
+        { "name": "1. Erste Schritte", "beschreibung": "In diesem Video stelle ich euch die ersten Schritte in Foundry VTT vor. Hierbei gehe ich auch einmal durch das UI und alle Funktionen die Foundry so beinhaltet, konzentriere mich aber auf die wichtigsten Dinge die ihr zu Beginn wissen solltet um mit Foundry spielen zu können.", "link": "https://youtu.be/Vs-w776sfhc", "date": "04.07.2025" },
+        { "name": "2.0. Szenenerstellung", "beschreibung": "In diesem Video zeige ich euch alles was ihr über Szenen in Foundry VTT wissen müsst. Ich erstelle dabei 3 Szenen: eine Battlemap, eine Dorfkarte und eine Theatre of the Mind (TOTM) Szene.", "link": "https://youtu.be/Qf2ph1OIZWw", "date": "15.08.2025" },
+        { "name": "2.2. Token Drag Ruler", "beschreibung": "In diesem Video stelle ich die neue Token Drag Ruler Funktion von Foundry v13 vor.", "link": "https://youtu.be/ielyYvcZKmA", "date": "11.07.2025" },
+        { "name": "2.3. Token Artwork Rotation", "beschreibung": "In diesem Video zeige ich euch wie ihr die Token Artwork Rotation deaktivieren könnt.", "link": "https://youtu.be/TblU9SOSxpI", "date": "25.07.2025" },
+        { "name": "2.4. Measure Controls", "beschreibung": "Die Messwerkzeuge sind dafür da um Schablonen in verschiedenen Formen auf Szenen verwenden zu können. Wie das funktioniert zeige ich euch in diesem Video.", "link": "https://youtu.be/RUAoGN-hICo", "date": "05.09.2025" },
+        { "name": "2.5. Drawing Tools", "beschreibung": "In diesem Video zeige ich euch die Drawing Tools für Szenen in Foundry VTT. Mit ihnen lassen sich schnell einfache Zeichnungen auf Szenen anlegen, wie zum Beispiel Rechtecke, Kreise, Pfade oder Freihandzeichnungen. Außerdem können Szenen mit Beschriftungen versehen werden.", "link": "https://youtu.be/hPShrAKuwjs", "date": "20.09.2025" },
+        { "name": "2.6. Tiles / Kacheln", "beschreibung": "Tiles oder auch auf deutsch Kacheln in Foundry sind ein mächtiges Werkzeug um Szenen deutlich besser zu nutzen. Es können Legenden über Maps gelegt, eine Speisekarte direkt neben der Taverne platziert oder sogar Dächer, Baumkronen und andere Dinge über die Charaktere gelegt werden.", "link": "https://youtu.be/5e3FvWFT8wk", "date": "04.10.2025" },
+        { "name": "2.7. Licht", "beschreibung": "Lichter auf Szene sehen nicht nur fantastisch aus, sie bringen auch eine gewisse Dynamik mit sich. Außerdem lassen sich mit ihnen auch beleuchtete Bereiche erstellen die dann mit der Token Sicht kombinierbar sind. In diesem Video stelle ich euch die Szenen Tools für Lichter vor.", "link": "https://youtu.be/ei0Tk_FOszE", "date": "18.10.2025" },
+        { "name": "2.8. Wände", "beschreibung": "Wände sind essentiell wenn es darum geht eine Battlemap oder andere Szenen mit der Sicht von Token zu nutzen und ein möglichst realistisches Sichtfeld einzurichten. Wie ihr mit den Wand Tools arbeitet und wie ihr möglichst schnell Wände erstellt, zeige ich euch in diesem Video.", "link": "https://youtu.be/SvUpz8cw1Is", "date": "22.11.2025" },
+        { "name": "3. Token", "beschreibung": "Token sind ein integraler Bestandteil von Foundry VTT. Mit diesen können Kämpfe auf einer Battlemap abgebildet werden, Gruppentoken über Landkarten gezogen werden und noch einiges mehr. Wie Token funktionieren zeige ich euch in diesem Video und zeige auch im Detail was linked/unlinked sowie Prototyp Token bedeuten.", "link": "https://youtu.be/7qdyUHi-M00", "date": "05.12.2025" },
+        { "name": "5. Scene Regions / Szenen Regionen", "beschreibung": "In diesem Video stelle ich euch die Szene Regions vor. Mit ihnen lassen sich Ereignisse auslösen wenn Token sich auf einer Szene in die Region befinden oder dort rein/raus bewegen. Außerdem lassen sich über die Szene Regions Bereiche definieren in denen andere Wetter und Lichtbedingungen gelten.", "link": "https://youtu.be/rtbzCo0U-7w", "date": "07.03.2026" },
+        { "name": "7. Sounds und Musik", "beschreibung": "In diesem Video zeige ich euch wie ihr Szenen mit Sounds und Musik erweitern könnt.", "link": "https://youtu.be/24Y_EOaqIDM", "date": "26.12.2021" },
+        { "name": "8. Kompendien", "beschreibung": "In diesem Video zeige ich euch wie ihr Kompendien verwendet um eure Welt nicht mit zu vielen Objekten zu überladen.", "link": "https://youtu.be/w037QZZ79Lk", "date": "07.02.2022" },
+        { "name": "Benutzer und Berechtigungen - Foundry VTT Basics 9 [Toms Tutorial]", "beschreibung": "In diesem Video zeige ich euch alles zum Thema Benutzer und Berechtigungen in Foundry.", "link": "https://youtu.be/-CQ5lLlrwkA", "date": "25.11.2022" },
+        { "name": "10. User Data Path", "beschreibung": "In diesem Video erkläre ich euch den User Data Path. Das Verständnis davon wie dieser funktioniert ist wichtig für alle Bilder, Videos, Audio Dateien die ihr in Foundry nutzen wollt. Außerdem ist dies der Pfad den ihr regelmäßig als Backup sichern solltet.", "link": "https://youtu.be/wJhCDkyb5_A", "date": "25.11.2022" },
+        { "name": "11. Journals (v10)", "beschreibung": "In diesem Video stelle ich euch alle Funktionen der Journals ins Foundry vor. Da es mit Foundry v10 eine komplette Überarbeitung der Journals gegeben hat, kann dieses Video nicht wirklich für Foundry v9 verwendet werden.", "link": "https://youtu.be/7SX2TZ_pVP8", "date": "03.02.2023" },
+        { "name": "12. Shared Compendium (v11)", "beschreibung": "Seit Foundry v11 gibt es direkt im Setup die Möglichkeit Shared/Adventure Compendien anzulegen und zu verwalten. Noch nie war es so einfach ein geteiltes Kompendium anzulegen.", "link": "https://youtu.be/2S0BkTuEQDg", "date": "30.09.2023" },
+        { "name": "13. Backups direkt in Foundry", "beschreibung": "Foundry hat seit der Version 11.311 eine integrierte Backup Funktion. Wie diese funktioniert zeige ich euch in diesem Video.", "link": "https://youtu.be/S2-XyYh89Zo", "date": "13.10.2023" },
+        { "name": "Chat und Proben - Foundry VTT Basics 5 [Toms Tutorial]", "beschreibung": "In diesem Video zeige ich euch wie ihr den Chat für die Kommunikation und einfach Proben verwendest.", "link": "https://youtu.be/Fr49IADp0aM", "date": "24.11.2021" },
+        { "name": "Szenen - Token Controls - Foundry VTT [Toms Basics]", "beschreibung": "Das erste Tool für Szenen sind die Token Controls. Mit diesen lassen sich Token auswählen, bewegen, Ziele markieren und Distanzen messen. Wie das funktioniert, zeige ich in diesem Video.", "link": "https://youtu.be/DMIIKhpH9dE", "date": "08.08.2025" },
+        { "name": "Sicht und Licht in Foundry VTT [Toms Basics]", "beschreibung": "Das Thema Sicht & Licht in Foundry VTT ist sehr komplex und bietet viele Möglichkeiten. In diesem Video versuche ich euch mit den wichtigsten Funktionen vertraut zu machen.", "link": "https://youtu.be/x3MptiNJ4mo", "date": "13.02.2026" },
+        { "name": "File Browser - Foundry VTT [Toms Basics]", "beschreibung": "Der File Browser ist essentiell um Bilder, Videos und Musik in Foundry zu verwenden. Außerdem ist er direkt mit der Ablage der Dateien auf eurem Server Dateisystem verbunden. Wie der File Browser funktioniert und wie ihr eure Daten verwaltet, zeige ich euch in diesem Video.", "link": "https://youtu.be/MXPAqt1Cd-c", "date": "31.10.2025" },
+        { "name": "Foundry Portable Version - Foundry VTT [Toms Basics]", "beschreibung": "Foundry VTT hat mit der Version 13 ein tolles Feature eingeführt: Die Portable Version. In diesem Video zeige ich dir Schritt für Schritt, wie du Foundry ganz ohne Installation nutzt, auf einem USB-Stick überallhin mitnimmst oder verschiedene Versionen parallel betreibst.", "link": "https://youtu.be/KmKjNp3sQYs", "date": "09.05.2026" }
+      ]
+    },
+    {
+      "name": "Foundry Basics (v14)",
+      "videos": [
+        { "name": "Levels - Foundry v14 - Foundry VTT [Tom's Tutorial]", "beschreibung": "In diesem Video stelle ich euch die neue Levels Mechanik von Foundry Version 14 vor. Ich zeige euch wie ihr eine Map mit mehreren Levels erstellt, Wände und Lichter anlegt, Verbindungen mit Hilfe von Regionen erzeugt und wie ihr die Sicht zwischen den unterschiedlichen Ebenen herstellt.", "link": "https://youtu.be/8H0jc_7Shz4", "date": "19.06.2026" }
+      ]
+    },
+    {
+      "name": "Foundry Module",
+      "videos": [
+        { "name": "Terrain Ruler und Enhanced Terrain Layer- Foundry VTT [Toms Module]", "beschreibung": "In diesem Video stelle ich euch die Module Terrain Ruler und Enhanced Terrain Layer vor, welche sich sehr leicht mit dem Drag Ruler einsetzen lassen.", "link": "https://youtu.be/9DaJq2YpuUA", "date": "25.04.2022" },
+        { "name": "Popout - Foundry VTT [Nellkirs Module]", "beschreibung": "In diesem Video stellt euch Nellkir das Modul Popout vor, mit dem ihr einzelne Fenster aus Foundry lösen und auf andere Bildschirme verschieben könnt.", "link": "https://youtu.be/tTpLfwqCEDE", "date": "27.04.2022" },
+        { "name": "Token Action HUD - Foundry VTT [Toms Module]", "beschreibung": "In diesem Video stelle ich euch das Modul Token Action HUD vor.", "link": "https://youtu.be/gV8zh_8zsIk", "date": "12.09.2022" },
+        { "name": "Carousel Combat Tracker - Foundry VTT [Toms Module]", "beschreibung": "Das Combat Carousel war ein sehr beliebtes Modul für einen alternativen Combat Tracker. Da der Entwickler sich aber anderen Projekten zuwendet, hat theRipper93 das Modul übernommen und als Carousel Combat Tracker veröffentlicht. Warum das Modul so toll ist, seht ihr in meinem Video.", "link": "https://youtu.be/gKgYxPNSJt0", "date": "24.11.2023" },
+        { "name": "Zeit in Foundry 3 - Simple Calendar - Foundry VTT [Toms Module]", "beschreibung": "Teil 3 meiner Zeit in Foundry Reihe mit dem Modul SimpleCalendar. Mit SimpleCalendar kommen einige neue Funktionen wie einem Kalender, der Tageszeit, Notizen mit Erinnerungen, Jahreszeiten, Tag und Nachtzeiten, Mondphasen und noch einiges mehr.", "link": "https://youtu.be/PFbLYT01nj4", "date": "28.02.2025" },
+        { "name": "Update Your Password - Foundry VTT [Toms Module]", "beschreibung": "Das Modul Update Your Password bietet den Spielern die Möglichkeit sich selbst ein Passwort zu vergeben. Wenn sich eure Spieler also über eure komplizierten Passwort Vorgaben beschweren oder ihr generell die Passwörter in die Hand eurer Spieler geben wollt, dann ist dieses Modul etwas für euch.", "link": "https://youtu.be/BzyTcb2dWI4", "date": "05.06.2026" },
+        { "name": "Allgemeines über Module", "beschreibung": "In diesem Video erzähle ich euch ein paar allgemeine Dinge über Module, bevor ich anfange einzelne Module vorzustellen.", "link": "https://youtu.be/E5gDIbvNdHQ", "date": "28.11.2021" },
+        { "name": "Szene: Dach mit Better Roofs", "beschreibung": "In diesem Tutorial zeige ich euch wie ihr die Dächer in Foundry mit Better Roofs besser darstellen könnt als in der Basisversion.", "link": "https://youtu.be/ll2sM8vy9ks", "date": "11.10.2021" },
+        { "name": "Clipboard Image", "beschreibung": "In diesem Video stelle ich euch das Modul Clipboard Image vor.", "link": "https://youtu.be/bBQ5t7OEGeA", "date": "03.12.2021" },
+        { "name": "Window Controls", "beschreibung": "In diesem Video stelle ich euch das Modul Window Controls vor.", "link": "https://youtu.be/YQOuo3tRkpE", "date": "07.01.2022" },
+        { "name": "Dice so Nice", "beschreibung": "In diesem Video stelle ich euch das Modul Dice so Nice vor.", "link": "https://youtu.be/o8tlbTe42WM", "date": "04.02.2022" },
+        { "name": "Tidy UI – Game Settings", "beschreibung": "In diesem Video stelle ich euch das Modul Tidy UI - Game Settings vor.", "link": "https://youtu.be/V0TXgwi0VZk", "date": "28.02.2022" },
+        { "name": "Actor Link Indicator", "beschreibung": "In diesem Video stelle ich euch das Modul Actor Link Indicator vor.", "link": "https://youtu.be/hLR9DRFowGM", "date": "21.03.2022" },
+        { "name": "Permission Viewer (Ownership Viewer)", "beschreibung": "Achtung für v10 umbenannt in Ownership Viewer! In diesem Video stelle ich euch das Modul Permission Viewer vor.", "link": "https://youtu.be/g1RSPkPOi4Q", "date": "28.03.2022" },
+        { "name": "Compendium Folders", "beschreibung": "In diesem Video stelle ich euch das Modul Compendium Folders vor.", "link": "https://youtu.be/uOKVcBR5hXE", "date": "11.04.2022" },
+        { "name": "Drag Ruler (+Integration)", "beschreibung": "In diesem Video zeige ich euch das Modul Drag Ruler und wie ihr an den Data Path kommt um das Modul für eurer System richtig zu konfigurieren. Außerdem stelle ich euch noch kurz die Zusatzmodule zur Drag Ruler Integration vor.", "link": "https://youtu.be/Rce6yvr_SH8", "date": "18.04.2022" },
+        { "name": "Break Time", "beschreibung": "In diesem Video stelle ich euch das Modul Break Time vor, mit dem ihr und eure Spieler schnell eure Abwesenheit unauffällig an die Runde kommunizieren könnt.", "link": "https://youtu.be/0Q2O8BJ7SUU", "date": "09.05.2022" },
+        { "name": "Combat Tracker Effect Icon Tooltips", "beschreibung": "In diesem Video stellt euch Nellkir das Modul Combat Tracker Effect Icon Tooltips vor.", "link": "https://youtu.be/sfitQzOrVUQ", "date": "11.05.2022" },
+        { "name": "Health Estimate", "beschreibung": "In diesem Video stelle ich euch das Modul Health Estimate vor.", "link": "https://youtu.be/ObD2_rlyYDM", "date": "23.05.2022" },
+        { "name": "Ambient Doors", "beschreibung": "In diesem Video stellt euch Nellkir das Modul Ambient Doors vor.", "link": "https://youtu.be/pntf24sOUAo", "date": "27.05.2022" },
+        { "name": "Follow Me!", "beschreibung": "In diesem Video stelle ich euch das Modul Follow Me! vor. Mit ihm könnt ihr Token anderen Tokens hinterherlaufen lassen.", "link": "https://youtu.be/AiAaIKM2eCc", "date": "07.06.2022" },
+        { "name": "Walls Have Ears", "beschreibung": "In diesem Video stellt euch Nellkir das Modul Walls Have Ears vor.", "link": "https://youtu.be/cf9_Ch8Z_Sk", "date": "08.06.2022" },
+        { "name": "Dice Tray und Simple Dice Roller", "beschreibung": "In diesem Video stelle ich euch die beiden Würfelmodule Dice Tray und Simple Dice Roller vor.", "link": "https://youtu.be/TY2wqVZMbyI", "date": "02.07.2022" },
+        { "name": "Grid Scaler", "beschreibung": "In diesem Video stellt euch Marcel das Modul Grid Scaler vor.", "link": "https://youtu.be/sGlr_PUMIOg", "date": "22.06.2022" },
+        { "name": "Monks Active Tile Triggers", "beschreibung": "In diesem Video gebe ich euch einen kleinen Einblick in das wahnsinnig umfangreiche Modul „Monk's Active Tile Triggers“.", "link": "https://youtu.be/0GM9WHHLPD0", "date": "27.06.2022" },
+        { "name": "Monks Active Tile Triggers 2", "beschreibung": "In diesem Video zeigt Marcel euch was er alles mit Monks Active Tile Triggers anstellen kann.", "link": "https://youtu.be/IZwm2FJYjxM", "date": "27.06.2022" },
+        { "name": "Splatter", "beschreibung": "In diesem Video stelle ich euch das Modul Splatter vor.", "link": "https://youtu.be/wDBQvaJELmE", "date": "04.07.2022" },
+        { "name": "Perfect Vision", "beschreibung": "Achtung! Dieses Video ist mit Foundry v10 nicht mehr aktuell. Das Modul wurde zwar auf v10 umgesetzt, aber schon sehr verändert. In diesem Video stelle ich euch das Modul Perfect Vision vor. Mit ihm könnte ihr die Sicht Funktionen von Foundry nochmal deutlich erweitern.", "link": "https://youtu.be/FuACHRKFggk", "date": "18.07.2022" },
+        { "name": "Quick Doors", "beschreibung": "In diesem Video stellt euch Marcel das Modul Quick Doors vor, auf welches ihr Zugriff bekommt wenn ihr 5€ Patreon bei theripper93 werdet.", "link": "https://youtu.be/snJ8-cv0CWU", "date": "17.08.2022" },
+        { "name": "Filepicker+", "beschreibung": "In diesem Video stellt euch Marcel das Modul Filepicker+ vor. Für dieses Modul benötigt ihr das Patreon Level für 5$ bei theripper93.", "link": "https://youtu.be/tAHwyBnO29E", "date": "05.09.2022" },
+        { "name": "Tokenizer", "beschreibung": "In diesem Video stelle ich euch das Modul Tokenizer vor. Mit diesem lassen sich Portraits und Token direkt in Foundry VTT erstellen.", "link": "https://youtu.be/OQ32aniJAzM", "date": "26.09.2022" },
+        { "name": "Quick Insert", "beschreibung": "In diesem Video stelle ich euch das Modul Quick Insert vor, welches eine gute und schnelle Suchfunktion für euer Foundry hinzufügt.", "link": "https://youtu.be/tuBnGVmwyGg", "date": "04.10.2022" },
+        { "name": "Mass Edit", "beschreibung": "In diesem Video stelle ich euch das Modul Mass Edit vor. Mit diesem Modul könnt ihr mehrere Objekte wie Token oder Kacheln auf Szenen gleichzeitig bearbeiten.", "link": "https://youtu.be/j7gUJHveU7s", "date": "24.10.2022" },
+        { "name": "Lock View", "beschreibung": "In diesem Video stelle ich euch das Modul Lock View vor. Mit diesem Modul lassen sich Theatre of the mind (TOTM) Szene noch stimmungsvoller in Szene setzen. Ihr könnt einstellen dass alle Spieler genau die gleiche Szene auf dieselbe Weise sehen.", "link": "https://youtu.be/pCXOHNokkH8", "date": "21.04.2023" },
+        { "name": "Grape-juice isometrics", "beschreibung": "In diesem Video zeige ich euch wie ihr mit dem Modul grape_juice-Isometrics Isometrische Karten und Token in FoundryVTT einbinden und nutzen könnt. Das Pro Modul bietet euch sogar die Möglichkeit über Tiles einen Iso 3D Effekt einzurichten.", "link": "https://youtu.be/MOhf48mg86Y", "date": "15.05.2023" },
+        { "name": "Combat Music Master", "beschreibung": "Ihr vergesst auch ständig eine spannende Musik/Playlist zu aktivieren wenn ein Kampf startet? Dann kann euch der Combat Music Master helfen. Mit ihm könnt ihr Standard Playlists bei jedem Kampf automatisch starten und beenden, so dass ihr euch nicht mehr um die Verwaltung der Musik kümmern müsst.", "link": "https://youtu.be/FKP-vd7npcI", "date": "03.11.2023" },
+        { "name": "Yendor's Scene Actors", "beschreibung": "Mit Yendor's Scene Actors könnt ihr eure TOTM Szenen noch weiter ausbauen. Mit dem Modul lassen sich sehr dynamisch die Portraits verschiedener Akteure auf der Szene ein- und ausblenden. Wie das ganze funktioniert, seht ihr in meinem Video.", "link": "https://youtu.be/4HMaSvXZ5SI", "date": "06.01.2024" },
+        { "name": "Lyynix: More Journal Enrichers", "beschreibung": "Die Journals sind mit ihren Links eh schon recht mächtig was die eigene Organisation angeht, doch das Modul More Journal Enrichers von Lyynix zeigt wie viel Potential dort noch besteht.", "link": "https://youtu.be/CPnleammjAo", "date": "22.03.2024" },
+        { "name": "Spotlight Omnisearch", "beschreibung": "Spotlight Omnisearch ist ein weiteres Modul von theRipper93. Es dient als Suche durch die Kompendien, bietet darüber hinaus aber viele weitere Funktionen: Suche nach Dokumenten (Actors, Items, Szenen, Playlists usw.), Aktivieren/Deaktivieren von Effekten und Wettereffekten, Starten von Playlists, Suche nach Einstellungen u.v.m.", "link": "https://youtu.be/sAI4gVL7a1Q", "date": "05.07.2024" },
+        { "name": "Zeit in Foundry 1/3 – TimesUp", "beschreibung": "Teil 1 meiner Zeit in Foundry Reihe mit dem Modul TimesUp. TimesUp sorgt dafür dass Effekte nach einer gewissen Zeit automatisch beendet werden. Eines der essentiellsten Module wenn es um Automatisierung in Foundry geht.", "link": "https://youtu.be/TbJXTe2if6o", "date": "31.01.2025" },
+        { "name": "Zeit in Foundry 2/3 – SmallTime", "beschreibung": "Teil 2 meiner Zeit in Foundry Reihe mit dem Modul Smalltime. Smalltime blendet die Uhrzeit oder zumindest ob es Tag oder Nacht ist in Foundry ein. Außerdem lässt sich die Dunkelheit einer Szene mit diesem Modul je nach Uhrzeit steuern.", "link": "https://youtu.be/LB2YUQKJHZo", "date": "08.02.2025" },
+        { "name": "Module für Foundry v13", "beschreibung": "In diesem Video zeige ich euch, auf welche Module ich für den Umstieg auf Foundry v13 nicht verzichten möchte. Neben Klassikern wie Dice So Nice! und Dice Tray, sind auch ein paar weniger populäre dabei.", "link": "https://youtu.be/VcItD0uIj8g", "date": "13.09.2025" },
+        { "name": "Whisper Sweet Nothings", "beschreibung": "Hier zeige ich euch ein Modul, das euch die Flüsternfunktion in FoundryVTT stark vereinfachen kann.", "link": "https://youtu.be/IltvDRL_v-E", "date": "30.01.2026" },
+        { "name": "Yendors User Passwords - Foundry VTT [Toms Module]", "beschreibung": "Mit dem Modul Yendors User Passwords können eure Spieler sich selbst Passwörter vergeben. Ihr könnt als Gamemaster auch neue Passwörter anfordern, sie zurücksetzen sowie direkt vergeben. Außerdem gibt es eine Option, die leere Passwörter deaktiviert.", "link": "https://youtu.be/g11R4tKe6Dc", "date": "12.06.2026" }
+      ]
+    },
+    {
+      "name": "Foundry News",
+      "videos": [
+        { "name": "Jingle, DnD und Ausblick  [Toms Kanalupdate]", "beschreibung": "In diesem Video reden wir über Jingles, DnD und ich gebe einen kleinen Ausblick was ich aktuell für den Kanal plane.", "link": "https://youtu.be/Ajg5rHfLgpA", "date": "20.04.2022" },
+        { "name": "v10 Module, A House Divided und Foundry v11 - Foundry VTT [Toms Newsflash]", "beschreibung": "In diesem Video erzähle ich euch ein paar Dinge zu Modulen in v10, dem Premium Modul A House Divided und Foundry v11.", "link": "https://youtu.be/MoHlW-ShCyQ", "date": "13.10.2022" },
+        { "name": "Foundry v9 GM und Spieler Features", "beschreibung": "In diesem Video zeige ich euch Features der V9 welche für euch als GM oder aber als Spieler interessant sein können.", "link": "https://youtu.be/dTJEA9-SO-Y", "date": "21.12.2021" },
+        { "name": "Foundry v10, Videos Howto und Danke", "beschreibung": "In diesem Video gebe ich euch ein kleines Update was so alles nach meinem Urlaub ansteht, viel Spaß dabei.", "link": "https://youtu.be/mGubIEqyxl0", "date": "26.08.2022" },
+        { "name": "Foundry v10", "beschreibung": "In diesem Video zeige ich euch einiges aus Foundry Version 10.", "link": "https://youtu.be/D6QnDEcdBS4", "date": "31.08.2022" },
+        { "name": "A House Divided, v11 Community Vote", "beschreibung": "In diesem Newsflash erfahrt ihr Neuigkeiten zu A House Divided, dem Patreon Poll zum nächsten v11 Feature, Version 10 Updates von Freeleague, sowie dem ersten deutschen Pathfinder 2 Abenteuer für Foundry.", "link": "https://youtu.be/vDv5btJIKqg", "date": "11.11.2022" },
+        { "name": "OGL Statement Foundry und Ergebnis DSA Umfrage - Foundry VTT [Toms Newsflash]", "beschreibung": "In diesem Video rede ich kurz über das Statement von Foundry VTT zum WotC Statement und stelle euch das Ergebnis meiner Foundry DSA Umfrage vor.", "link": "https://youtu.be/D0cNt54FpZM", "date": "20.01.2023" },
+        { "name": "OGL Statement Foundry 2  - Foundry VTT [Toms Newsflash]", "beschreibung": "Foundry hat am 20.01.2023 ein weiteres Statement zur OGL veröffentlicht. Es geht um den vor kurzem veröffentlichten OGL 1.2 Draft und die darin enthaltene VTT Policy.", "link": "https://youtu.be/RML2-DiWtJs", "date": "23.01.2023" },
+        { "name": "Modulupdates: Werkstatt, Studierstube und Grimorum", "beschreibung": "In diesem Video zeige ich euch was die letzten Modul Updates für Foundry DSA an Neuerungen gebracht haben. Die Werkstatt des Meisters hat ein paar Verbesserungen bekommen, das Grimorum Cantiones wurde als Update in die bestehenden Module gepatcht und die Studierstube des Magiers wird um neue Inhalte aus dem Grimorum erweitert.", "link": "https://youtu.be/R16x-72cBlc", "date": "30.01.2023" },
+        { "name": "VTTom Ruhestand, Foundry v11 P2 und viele Module", "beschreibung": "In diesem Video gehe ich viele verschiedene Themen durch: Livestreams, ein englischer DSA VTT Kanal, neue DSA Module, den Foundry v11 Prototyp 2 Changelog und einige weitere neue Systemmodule.", "link": "https://youtu.be/zG0aT8HTIyM", "date": "12.03.2023" },
+        { "name": "Webseite, FoundryCon, Black Flag, GM Screen v10", "beschreibung": "Es geht aktuell Schlag auf Schlag mit den News. Die Themen in diesem Video: meine Webseite, Kofi, FoundryCon, Black Flag von Koboldpress, GM Screen für Foundry v10, Ulisses News zu VTT und die Roadmap von Foundry DSA.", "link": "https://youtu.be/THE-1XU5Zdk", "date": "19.03.2023" },
+        { "name": "Werbung in Foundry v11", "beschreibung": "In Foundry v11 sollen Statistische Daten und Werbung Einzug finden. Alle Informationen dazu und warum ich das nicht problematisch finde erfahrt ihr in diesem Video.", "link": "https://youtu.be/qadTRH9g7PQ", "date": "02.05.2023" },
+        { "name": "Newsflash Sigil Services, DSA mobile, Crucible", "beschreibung": "Ich habe wieder einige News für euch gesammelt. Unter anderem dabei ist die Übernahme von Sigil Services durch Ulisses, Yendors UI mit mobile Support für Foundry DSA, das neue TTRPG System Crucible vom Foundry Macher Atropos und ein kleines Kanalupdate.", "link": "https://youtu.be/gF3Va_h_a98", "date": "15.06.2023" },
+        { "name": "Newsflash V12 Patreon Vote und Version 11.5", "beschreibung": "Foundry hat gerade die Patreon Abstimmung für Version 12 veröffentlicht und außerdem eine Version 11.5 angekündigt. Was für Funktionen zur Abstimmung stehen und was die v11.5 bedeutet zeige ich euch in diesem Video.", "link": "https://youtu.be/kxsh3lZLW8Y", "date": "17.06.2023" },
+        { "name": "Newsflash DSA, Crucible, Foundry v12", "beschreibung": "In diesen News ist wieder ein bunter Strauß an Nachrichten und Informationen: das Studio VTT Bastler mit dem DSA Modul Ohne Ehre, Crucible für alle, Pathfinder 2 ab Version 5.2 Remaster, Dragonbane für Foundry und ein Foundry v12 Preview.", "link": "https://youtu.be/YkOZHIZR_QY", "date": "30.07.2023" },
+        { "name": "Newsflash Dezember 2023", "beschreibung": "In diesem Newsflash habe ich wieder einige Themen für euch: meine Webseite, HeXXen v2, DnD SRD und Aventurien 5e Updates, Yendors Patreon und Foundry v12 Prototyp 1.", "link": "https://youtu.be/SAaQEUThN5o", "date": "16.12.2023" },
+        { "name": "Newsflash Februar 2024", "beschreibung": "In diesem Video geht es um DSA Patch 5.3, die nächsten Ulisses Spiele VTT Releases und die Partnerschaft zwischen WotC und Foundry VTT zum System DnD.", "link": "https://youtu.be/k9n5rUEm8ow", "date": "09.02.2024" },
+        { "name": "Newsflash März - Foundry VTT [Toms Newsflash]", "beschreibung": "Auch im März gibt es wieder ein paar News: ein neuer DSA Bereich auf meiner Webseite, das Studio VTT Bastler sucht Verstärkung, ein Sneak Peak zu Aventurischen Abenteuern und das PF2 Modul „Die Gesetzlosen von Alkenstern“ auf Deutsch.", "link": "https://youtu.be/wXDvY8dX1gY", "date": "28.03.2024" },
+        { "name": "Newsflash Mai - Foundry Anniversary, Sale, v12, Tales of the Valiant - Foundry VTT [Toms Newsflash]", "beschreibung": "Es ist Foundry Anniversary Week und diese bringt einige News mit sich, wie zum Beispiel Foundry v12 Stable und einen Sale bei Foundry und Partnern. Außerdem gibt es News zu Black Flag, Tales of the Valiant und dem Das weiße Auge Discord Würfelbot.", "link": "https://youtu.be/Nzgrx3QwMgc", "date": "23.05.2024" },
+        { "name": "Foundry v12", "beschreibung": "Foundry v12 ist erschienen und bietet wieder einige neue Funktionen und Features. Ich gehe mit euch einige der größten Änderungen durch und stelle sie vor: Dynamic Token Rendering, Elevated Tiles, Scene Regions, Darkness Light Sources u.v.m.", "link": "https://youtu.be/WK6NH8MaBaU", "date": "06.06.2024" },
+        { "name": "Newsflash August 2024", "beschreibung": "Der Newsflash im August ist voll mit Infos zu verschiedenen RPG Systemen: Foundry Patreon Vote Ergebnis v13, Pathfinder 2 Monster und NPC Token Packs, DnD5e Module für die 2024er Regeln, Foundry Marketplace, Ember und Crucible von Foundry, Tales of the Valiant/Black Flag Stand, DC20 RPG und Cosmere RPG von Brandon Sanderson.", "link": "https://youtu.be/U0IXZUaU7LM", "date": "03.09.2024" },
+        { "name": "Ember Kickstarter", "beschreibung": "Die Kickstarter Kampagne von Ember läuft und ich zeige euch in diesem Video was ihr von Ember erwarten könnt. Ich stelle anhand des Trailers die verschiedenen Inhalte und Systeme vor und versuche euch damit einen Überblick über das fertige Produkt zu geben.", "link": "https://youtu.be/eFbsFwfc7sk", "date": "06.09.2024" },
+        { "name": "Newsflash Dezember 2024", "beschreibung": "Es gibt ein paar News die ich mit euch teilen möchte, diesmal zu den Themen: Was ist los bei mir auf dem Kanal?, Der Smarte Held für DSA, Foundry v13, Tales of the Valiant, DC20 Beta, DnD Dungeonmasters Guide 2024, Ember Alpha und Studio VTT Bastler Tools.", "link": "https://youtu.be/qlDtEXgsMJ4", "date": "23.12.2024" },
+        { "name": "Foundry Marketplace FAQ - Foundry VTT [Toms Newsflash]", "beschreibung": "Der offizielle Foundry VTT Marketplace ist veröffentlicht worden und startet direkt mit einem großen Sale. In diesem Video kläre ich die wichtigsten Fragen rund um den Marketplace.", "link": "https://youtu.be/pWYinIvjY_I", "date": "14.02.2025" },
+        { "name": "v13 Preview", "beschreibung": "Ich habe mir die Foundry VTT v13 Testing Version geschnappt und für euch einmal die wichtigsten Neuerungen zusammengefasst.", "link": "https://youtu.be/vPsmIZRHCpE", "date": "28.03.2025" },
+        { "name": "Newsflash Mai 2025", "beschreibung": "In diesem Newsflash gibt es einen Überblick über die Foundry Anniversary Week in der es einige Live Veranstaltungen und einen Sale geben wird. Außerdem stelle ich euch die HeXXen 1733 Beta von Yendor kurz vor, sowie die Beta von DSA 5 für Foundry v13.", "link": "https://youtu.be/iFNMatszV0c", "date": "21.05.2025" },
+        { "name": "Foundry v14, AI Policy, Kanalupdate - Newsflash März 2026 [Toms News]", "beschreibung": "Es ist mal wieder soweit, eine neue News Folge steht an. Folgende Themen habe ich in diesem Video für euch: Update meiner Webseite vttom.de, Foundry v14 aktueller Stand, Ember Early Access, Foundrys neue AI Policy, Myranor 5e, Studio VTT Bastler Module und Videowünsche.", "link": "https://youtu.be/Ct78BGLfayA", "date": "21.03.2026" },
+        { "name": "v14 - Levels, Popout, Palette uvm. - Foundry VTT [Toms Newsflash]", "beschreibung": "In diesem Video stelle ich euch die neuen Funktionen in Foundry Version 14 vor. Darunter unter anderem Scene Levels um Szenen mit verschiedenen Ebenen abzubilden, ein integriertes Popout Feature um alle Fenster aus Foundry zu lösen und auf einen anderen Monitor zu schieben, sowie die neue Palette Funktion die euch Wände, Lichter, Sounds usw. deutlich besser auf Szenen setzen und bearbeiten lässt.", "link": "https://youtu.be/dGHXoMpefig", "date": "24.04.2026" }
       ]
     }
   ]

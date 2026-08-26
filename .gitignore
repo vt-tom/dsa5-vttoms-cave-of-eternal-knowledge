@@ -1,0 +1,6 @@
+RELEASE.md
+
+# LevelDB Betriebsdateien der Foundry-Kompendien (keine Kompendium-Inhalte)
+packs/*/LOG
+packs/*/LOG.old
+packs/*/LOCK
